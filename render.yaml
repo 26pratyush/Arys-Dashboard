@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: arys-backend
+    env: python
+    rootDir: backend
+    buildCommand: pip install -r ../requirements.txt
+    startCommand: gunicorn app:app
+    plan: free
+
+  - type: web
+    name: arys-frontend
+    env: python
+    rootDir: frontend
+    buildCommand: pip install -r ../requirements.txt
+    startCommand: streamlit run dashboard.py --server.port $PORT --server.address 0.0.0.0
+    plan: free
