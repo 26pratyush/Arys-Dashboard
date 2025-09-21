@@ -3,8 +3,12 @@ import pandas as pd
 
 app = Flask(__name__)
 
+# Find the repo root
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "sales_data_cleaned.csv")
+
 # Load cleaned data
-df = pd.read_csv("../data/sales_data_cleaned.csv")
+df = pd.read_csv(DATA_PATH)
 
 # Root endpoint (health check)
 @app.route('/', methods=['GET'])
