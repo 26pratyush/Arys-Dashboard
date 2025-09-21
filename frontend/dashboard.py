@@ -3,7 +3,7 @@ import requests
 import plotly.express as px
 
 # API base URL
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://arys-dashboard.onrender.com"
 
 st.set_page_config(page_title="Arys Garage Sales Dashboard", layout="wide")
 st.title("🚗 Arys Garage Sales Dashboard")
