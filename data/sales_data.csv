@@ -1,506 +1,555 @@
 ORDERNUMBER,SALES,ORDERDATE,PRODUCTLINE,COUNTRY,QUANTITYORDERED,CUSTOMERNAME,STATUS
-10001,35766.9,2023-09-28,Chassis Components,UK,23,Arys Garage Pvt. Ltd.,In Process
-10002,87446.46,2024-02-13,Trailers,USA,81,DriveTech Distributors,Cancelled
-10003,77393.67,2023-07-13,Trailers,Canada,90,FleetX Logistics Ltd.,In Process
-10004,74597.29,2022-11-03,Transmission Units,Germany,17,MaxMove Transport,In Process
-10005,65629.44,2023-08-09,Transmission Units,Australia,4,AutoNation Dealers,Cancelled
-10006,6763.69,2023-10-24,Electrical Systems,Germany,30,EuroFleet Systems,Resolved
-10007,39341.12,2021-03-14,Chassis Components,Japan,5,Arys Garage Pvt. Ltd.,Shipped
-10008,10535.51,2021-02-03,Electrical Systems,France,38,EuroFleet Systems,Disputed
-10009,79457.24,2025-09-12,Semi-Trailers,UK,51,"Lopez, Sellers and Spencer",Shipped
-10010,55639.75,2021-10-01,Semi-Trailers,UK,2,DriveTech Distributors,
-10011,28092.91,2024-07-28,Chassis Components,UK,85,FleetX Logistics Ltd.,Disputed
-10012,20463.05,2024-08-27,Passenger Vehicles,Japan,32,Velocity Vehicles,Disputed
-10013,70061.35,2023-11-05,Vehicle Interiors,Canada,78,Arys Garage Pvt. Ltd.,In Process
-10014,61065.54,2023-07-28,Transmission Units,Australia,60,,On Hold
-10015,37135.76,2022-01-27,Semi-Trailers,USA,99,FleetX Logistics Ltd.,On Hold
-10016,96136.25,2022-08-17,Commercial Trucks,Australia,6,Arys Garage Pvt. Ltd.,
-10017,11119.48,2021-10-31,Passenger Vehicles,France,6,Arys Garage Pvt. Ltd.,Cancelled
-10018,33680.6,2025-05-29,Semi-Trailers,Japan,58,Perez Inc,Disputed
-10019,31573.76,2022-01-30,Semi-Trailers,Italy,67,Velocity Vehicles,In Process
-10020,28972.83,2023-03-25,Trailers,UK,15,Wilkins-Mccall,On Hold
-10021,71005.67,2021-02-01,Semi-Trailers,France,5,Mcdaniel Group,In Process
-10022,46319.67,2024-01-08,Engine Systems,USA,70,Velocity Vehicles,Resolved
-10023,26249.28,2022-05-06,Vehicle Interiors,USA,36,MaxMove Transport,Disputed
-10024,23746.48,2021-10-22,Chassis Components,Japan,33,EuroFleet Systems,Cancelled
-10025,71509.07,2024-01-09,Vehicle Interiors,Japan,99,Velocity Vehicles,Disputed
-10026,15209.01,2024-10-16,Electrical Systems,UK,32,Velocity Vehicles,Disputed
-10027,62802.61,2021-05-29,Engine Systems,Canada,15,TransGlobal Motors,In Process
-10028,81972.36,2021-12-25,Semi-Trailers,USA,48,Velocity Vehicles,Shipped
-10029,79458.55,2021-07-06,Semi-Trailers,UK,69,FleetX Logistics Ltd.,Resolved
-10030,30877.16,2022-12-06,Vehicle Interiors,Japan,28,Arys Garage Pvt. Ltd.,On Hold
-10031,86121.43,2021-09-05,Transmission Units,UK,83,Arys Garage Pvt. Ltd.,Resolved
-10032,71382.55,2025-06-28,Transmission Units,Italy,99,"Smith, Morton and Grant",On Hold
-10033,32057.07,2023-05-22,Passenger Vehicles,Italy,6,Velocity Vehicles,In Process
-10034,54324.22,2023-08-09,Passenger Vehicles,Australia,30,MaxMove Transport,Resolved
-10035,42647.94,2025-04-02,Semi-Trailers,Germany,16,Arys Garage Pvt. Ltd.,Shipped
-10036,49752.19,2021-10-02,Semi-Trailers,Germany,81,AutoNation Dealers,In Process
-10037,5105.59,2024-09-24,Passenger Vehicles,Italy,94,TransGlobal Motors,Shipped
-10038,83649.17,2023-08-13,Vehicle Interiors,Germany,11,TransGlobal Motors,On Hold
-10039,7310.77,2024-04-02,Vehicle Interiors,Canada,45,"Hart, Gilbert and Smith",In Process
-10040,76444.73,2023-08-26,Chassis Components,Canada,97,TransGlobal Motors,On Hold
-10041,35250.74,2022-03-29,Trailers,Japan,51,FleetX Logistics Ltd.,Shipped
-10042,36689.59,2024-09-18,Engine Systems,Australia,47,FleetX Logistics Ltd.,Resolved
-10043,56342.32,2023-11-03,Engine Systems,Australia,31,MaxMove Transport,Shipped
-10044,85680.1,2024-12-16,Chassis Components,USA,30,Arys Garage Pvt. Ltd.,On Hold
-10045,34737.58,2024-04-05,Commercial Trucks,Italy,78,Velocity Vehicles,Resolved
-10046,52756.96,2024-08-30,Vehicle Interiors,Canada,71,,In Process
-10047,87054.57,2024-07-09,Electrical Systems,USA,34,Arys Garage Pvt. Ltd.,Disputed
-10048,75105.89,2023-01-28,Trailers,Germany,40,TransGlobal Motors,Shipped
-10049,72911.79,2024-10-29,Vehicle Interiors,Canada,18,MaxMove Transport,Cancelled
-10050,61379.81,2021-06-10,Transmission Units,Australia,65,TransGlobal Motors,On Hold
-10051,37095.99,2023-12-07,Electrical Systems,Germany,87,AutoNation Dealers,On Hold
-10052,30207.0,2025-08-01,Trailers,France,35,MaxMove Transport,Resolved
-10053,58152.34,2022-01-19,Electrical Systems,USA,72,FleetX Logistics Ltd.,Disputed
-10054,11165.9,2024-09-24,Engine Systems,Australia,36,AutoNation Dealers,On Hold
-10055,39181.03,2024-03-13,Electrical Systems,Germany,20,TransGlobal Motors,Disputed
-10056,73012.32,2023-07-20,Transmission Units,Germany,80,Arys Garage Pvt. Ltd.,Disputed
-10057,69441.34,2020-12-04,Trailers,USA,93,Butler-Valdez,In Process
-10058,13121.97,2021-03-17,Passenger Vehicles,Canada,40,Arys Garage Pvt. Ltd.,Cancelled
-10059,33431.17,2023-02-09,Commercial Trucks,USA,21,"Meyer, Hurst and Meyer",On Hold
-10060,27088.93,2022-07-15,Vehicle Interiors,Japan,33,AutoNation Dealers,Resolved
-10061,95774.15,2023-04-17,Engine Systems,Australia,56,AutoNation Dealers,Shipped
-10062,87393.8,2023-07-02,Vehicle Interiors,Germany,37,EuroFleet Systems,In Process
-10063,19042.51,2025-02-02,Chassis Components,Australia,14,FleetX Logistics Ltd.,On Hold
-10064,57153.86,2023-11-23,Electrical Systems,Japan,33,TransGlobal Motors,Resolved
-10065,9178.76,2022-03-25,Transmission Units,Canada,49,FleetX Logistics Ltd.,In Process
-10066,66126.1,2023-06-13,Trailers,France,58,TransGlobal Motors,On Hold
-10067,12101.41,2024-01-04,Electrical Systems,UK,37,AutoNation Dealers,Shipped
-10068,44051.91,2021-01-12,Vehicle Interiors,Canada,92,EuroFleet Systems,Resolved
-10069,26377.67,2024-04-17,Semi-Trailers,Japan,62,MaxMove Transport,Cancelled
-10070,15258.05,2021-04-25,Engine Systems,Germany,1,TransGlobal Motors,Disputed
-10071,78151.51,2023-06-19,Vehicle Interiors,USA,40,Velocity Vehicles,In Process
-10072,75627.46,2022-08-13,Commercial Trucks,Canada,17,DriveTech Distributors,On Hold
-10073,84331.68,2021-02-10,Engine Systems,UK,66,AutoNation Dealers,Disputed
-10074,88400.46,2021-01-19,Vehicle Interiors,USA,32,TransGlobal Motors,Disputed
-10075,10241.3,2024-02-28,Chassis Components,UK,9,MaxMove Transport,Disputed
-10076,61416.16,2025-02-22,Semi-Trailers,Germany,42,AutoNation Dealers,Cancelled
-10077,8389.28,2022-01-19,Trailers,Australia,16,TransGlobal Motors,Cancelled
-10078,56134.06,2024-06-12,Engine Systems,Canada,56,MaxMove Transport,Disputed
-10079,27741.9,2022-01-11,Engine Systems,Germany,76,MaxMove Transport,Cancelled
-10080,20091.99,2023-10-01,Chassis Components,Germany,10,Velocity Vehicles,Shipped
-10081,80649.93,2024-07-30,Chassis Components,Australia,77,Arys Garage Pvt. Ltd.,Disputed
-10082,39634.73,2022-09-23,Commercial Trucks,Australia,19,AutoNation Dealers,Shipped
-10083,9029.13,2021-08-29,Passenger Vehicles,Japan,22,TransGlobal Motors,On Hold
-10084,83994.47,2021-11-25,Semi-Trailers,Japan,31,EuroFleet Systems,On Hold
-10085,44434.64,2022-03-15,Semi-Trailers,Canada,24,DriveTech Distributors,Disputed
-10086,97673.97,2021-09-11,Electrical Systems,Japan,28,Arys Garage Pvt. Ltd.,Resolved
-10087,84572.82,2024-04-18,Semi-Trailers,France,74,TransGlobal Motors,Resolved
-10088,63363.55,2023-03-26,Transmission Units,France,80,Lopez-Jones,In Process
-10089,79318.54,2023-03-29,Vehicle Interiors,France,47,Townsend Ltd,Resolved
-10090,47245.32,2023-12-11,Chassis Components,Japan,37,TransGlobal Motors,Shipped
-10091,74729.86,2024-03-19,Semi-Trailers,Japan,85,FleetX Logistics Ltd.,Disputed
-10092,82714.32,2025-07-14,Engine Systems,Japan,97,Arys Garage Pvt. Ltd.,Disputed
-10093,22376.64,2024-11-11,Transmission Units,Japan,15,"Mcclure, Norton and Henry",Disputed
-10094,39195.65,2024-04-30,Semi-Trailers,UK,23,MaxMove Transport,Cancelled
-10095,79274.33,2022-05-12,Passenger Vehicles,Canada,47,MaxMove Transport,Disputed
-10096,19727.9,2025-06-13,Vehicle Interiors,Italy,95,"Wheeler, Li and Anderson",Shipped
-10097,30128.7,2021-07-06,Chassis Components,Australia,67,DriveTech Distributors,Shipped
-10098,39943.42,2021-06-09,Passenger Vehicles,UK,32,FleetX Logistics Ltd.,Shipped
-10099,5689.88,2024-01-09,Passenger Vehicles,UK,69,DriveTech Distributors,In Process
-10100,84050.61,2025-05-23,Electrical Systems,Australia,7,DriveTech Distributors,Disputed
-10101,33009.13,2022-11-18,Vehicle Interiors,USA,14,MaxMove Transport,Shipped
-10102,79196.64,2021-02-12,Electrical Systems,Japan,28,AutoNation Dealers,Shipped
-10103,90994.54,2021-07-05,Semi-Trailers,Germany,69,EuroFleet Systems,In Process
-10104,26929.89,2022-12-28,Vehicle Interiors,Italy,92,Arys Garage Pvt. Ltd.,On Hold
-10105,15073.51,2022-01-05,Semi-Trailers,Germany,62,"Weber, Murray and White",Cancelled
-10106,58563.44,2023-01-11,Vehicle Interiors,France,84,Arys Garage Pvt. Ltd.,Cancelled
-10107,99669.04,2024-11-12,Transmission Units,Italy,52,EuroFleet Systems,In Process
-10108,18308.86,2024-10-10,Trailers,Italy,79,MaxMove Transport,In Process
-10109,69190.86,2025-09-04,Engine Systems,USA,35,Bean-Ferguson,On Hold
-10110,91232.93,2021-11-22,Commercial Trucks,France,75,Velocity Vehicles,Resolved
-10111,96343.13,2022-10-02,Commercial Trucks,Canada,47,Velocity Vehicles,Shipped
-10112,48586.66,2023-01-09,Vehicle Interiors,Japan,20,AutoNation Dealers,Disputed
-10113,87584.09,2023-08-18,Electrical Systems,UK,58,Arys Garage Pvt. Ltd.,Resolved
-10114,76495.15,2022-01-21,Chassis Components,Canada,95,MaxMove Transport,Shipped
-10115,70625.04,2024-10-03,Passenger Vehicles,UK,66,Velocity Vehicles,In Process
-10116,57915.72,2020-10-27,Passenger Vehicles,Japan,69,MaxMove Transport,In Process
-10117,66991.94,2021-01-19,Electrical Systems,UK,81,Knight Ltd,Cancelled
-10118,57344.14,2021-01-02,Engine Systems,France,46,MaxMove Transport,Resolved
-10119,67649.11,2022-02-24,Transmission Units,USA,23,TransGlobal Motors,On Hold
-10120,60632.55,2024-08-31,Transmission Units,Germany,24,Blair PLC,Cancelled
-10121,12489.46,2024-12-18,Passenger Vehicles,Germany,65,Arys Garage Pvt. Ltd.,Disputed
-10122,82236.24,2022-07-01,Electrical Systems,Australia,56,EuroFleet Systems,Disputed
-10123,8976.77,2020-10-21,Transmission Units,Germany,60,Valenzuela-Watson,Shipped
-10124,71745.76,2021-11-11,Chassis Components,USA,49,EuroFleet Systems,In Process
-10125,97868.88,2022-03-14,Engine Systems,Canada,26,MaxMove Transport,In Process
-10126,88032.24,2024-06-07,Trailers,USA,94,Farley-Foster,In Process
-10127,35533.19,2022-04-01,Chassis Components,Japan,28,DriveTech Distributors,In Process
-10128,7232.75,2022-11-17,Semi-Trailers,Canada,69,MaxMove Transport,
-10129,32554.65,2022-06-21,Semi-Trailers,UK,65,TransGlobal Motors,Cancelled
-10130,27723.82,2025-04-29,Vehicle Interiors,Japan,34,DriveTech Distributors,Cancelled
-10131,19447.17,2021-06-20,Vehicle Interiors,Australia,95,DriveTech Distributors,In Process
-10132,5337.86,2025-06-27,Vehicle Interiors,UK,14,Arys Garage Pvt. Ltd.,Disputed
-10133,12745.07,2023-11-22,Trailers,USA,2,FleetX Logistics Ltd.,Resolved
-10134,55417.69,2021-05-27,Transmission Units,Australia,27,EuroFleet Systems,In Process
-10135,83362.04,2024-11-18,Electrical Systems,Canada,60,MaxMove Transport,Cancelled
-10136,27917.52,2022-04-07,Trailers,France,66,AutoNation Dealers,Disputed
-10137,70955.86,2024-07-26,Electrical Systems,Canada,50,AutoNation Dealers,Shipped
-10138,,2022-11-25,Transmission Units,Germany,82,EuroFleet Systems,Shipped
-10139,41589.23,2024-08-13,Trailers,Japan,1,FleetX Logistics Ltd.,Cancelled
-10140,92391.35,2022-06-22,Vehicle Interiors,Australia,19,Velocity Vehicles,On Hold
-10141,65983.66,2025-05-22,Transmission Units,Australia,66,EuroFleet Systems,Resolved
-10142,80252.28,2023-03-07,Commercial Trucks,Canada,35,TransGlobal Motors,In Process
-10143,18189.98,2021-10-24,Transmission Units,UK,39,Arys Garage Pvt. Ltd.,On Hold
-10144,35262.73,2022-11-24,Trailers,Japan,73,FleetX Logistics Ltd.,In Process
-10145,39302.12,2025-08-11,Engine Systems,Germany,95,TransGlobal Motors,Resolved
-10146,56435.44,2024-01-03,Vehicle Interiors,Japan,27,AutoNation Dealers,Shipped
-10147,63380.7,2021-03-18,Vehicle Interiors,France,63,TransGlobal Motors,Shipped
-10148,91689.34,2021-09-11,Transmission Units,Italy,57,MaxMove Transport,Cancelled
-10149,56877.93,2023-06-13,Transmission Units,Italy,78,Arys Garage Pvt. Ltd.,Disputed
-10150,90385.79,2021-12-19,Transmission Units,Australia,63,FleetX Logistics Ltd.,Shipped
-10151,67528.44,2025-05-11,Chassis Components,USA,49,AutoNation Dealers,On Hold
-10152,18629.81,2024-02-16,Semi-Trailers,France,22,MaxMove Transport,In Process
-10153,24667.25,2021-12-10,Transmission Units,USA,94,MaxMove Transport,Resolved
-10154,60535.76,2022-02-10,Chassis Components,UK,96,AutoNation Dealers,Resolved
-10155,79985.58,2024-11-30,Engine Systems,USA,33,EuroFleet Systems,In Process
-10156,,2021-08-10,Transmission Units,Italy,41,DriveTech Distributors,On Hold
-10157,99169.71,2022-06-20,Trailers,France,13,TransGlobal Motors,Shipped
-10158,15473.55,2024-06-18,Chassis Components,USA,67,TransGlobal Motors,Resolved
-10159,56559.3,2022-01-30,Chassis Components,France,46,Velocity Vehicles,In Process
-10160,43039.51,2021-11-01,Transmission Units,Italy,92,DriveTech Distributors,Disputed
-10161,32137.39,2023-06-13,Commercial Trucks,Australia,94,Bell PLC,Resolved
-10162,25484.22,2022-02-03,Electrical Systems,USA,3,Obrien Ltd,In Process
-10163,82508.07,2025-08-24,Engine Systems,Australia,73,TransGlobal Motors,Cancelled
-10164,10424.58,2024-04-25,Electrical Systems,Italy,99,MaxMove Transport,In Process
-10165,83976.78,2023-11-06,Vehicle Interiors,Japan,33,TransGlobal Motors,Resolved
-10166,62727.04,2022-01-03,Engine Systems,Germany,7,TransGlobal Motors,Cancelled
-10167,69032.55,2024-08-28,Chassis Components,Australia,45,EuroFleet Systems,Shipped
-10168,65043.93,2021-07-01,Vehicle Interiors,USA,59,EuroFleet Systems,In Process
-10169,91198.77,2023-07-05,Engine Systems,Canada,39,AutoNation Dealers,In Process
-10170,50096.62,2023-10-19,Vehicle Interiors,Canada,5,Velocity Vehicles,Resolved
-10171,83796.94,2020-12-11,Trailers,Japan,45,Velocity Vehicles,In Process
-10172,47291.14,2022-05-21,Vehicle Interiors,USA,64,AutoNation Dealers,Shipped
-10173,46232.34,2023-05-25,Passenger Vehicles,Australia,85,FleetX Logistics Ltd.,Cancelled
-10174,67313.18,2021-07-09,Electrical Systems,Australia,74,Velocity Vehicles,In Process
-10175,64073.79,2024-02-14,Chassis Components,Italy,43,FleetX Logistics Ltd.,In Process
-10176,53605.56,2025-01-25,Commercial Trucks,Japan,68,FleetX Logistics Ltd.,Cancelled
-10177,38640.87,2021-04-07,Commercial Trucks,Japan,54,MaxMove Transport,Cancelled
-10178,31718.39,2023-02-23,Passenger Vehicles,Germany,77,Velocity Vehicles,Resolved
-10179,85615.31,2021-06-20,Chassis Components,UK,31,TransGlobal Motors,Cancelled
-10180,7797.89,2025-05-11,Transmission Units,Italy,56,"Scott, Castillo and Green",Shipped
-10181,36507.33,2021-07-21,Passenger Vehicles,USA,82,Arys Garage Pvt. Ltd.,Disputed
-10182,10975.35,2025-08-27,Electrical Systems,France,67,DriveTech Distributors,Shipped
-10183,36161.07,2021-01-28,Commercial Trucks,Germany,99,DriveTech Distributors,Cancelled
-10184,30627.56,2023-01-09,Chassis Components,France,80,MaxMove Transport,In Process
-10185,34943.08,2021-10-16,Vehicle Interiors,UK,27,FleetX Logistics Ltd.,Resolved
-10186,69226.82,2021-05-05,Vehicle Interiors,Australia,86,FleetX Logistics Ltd.,In Process
-10187,67586.0,2021-06-14,Electrical Systems,Italy,59,FleetX Logistics Ltd.,On Hold
-10188,13705.72,2023-07-29,Passenger Vehicles,Canada,88,TransGlobal Motors,On Hold
-10189,78384.28,2021-11-01,Transmission Units,Italy,76,"Rivas, Higgins and Webb",
-10190,66309.94,2021-05-19,Transmission Units,Germany,32,Mueller Ltd,On Hold
-10191,91745.22,2022-09-11,Passenger Vehicles,UK,41,AutoNation Dealers,On Hold
-10192,9607.62,2021-04-14,Vehicle Interiors,UK,66,MaxMove Transport,
-10193,29752.93,2025-08-12,Electrical Systems,Japan,5,FleetX Logistics Ltd.,Disputed
-10194,68037.09,2020-12-16,Passenger Vehicles,France,73,"Arnold, Johnson and Robbins",Shipped
-10195,68728.12,2023-11-16,Commercial Trucks,Germany,16,FleetX Logistics Ltd.,In Process
-10196,94980.66,2024-10-29,Semi-Trailers,Australia,88,TransGlobal Motors,Disputed
-10197,90841.98,2023-07-10,Semi-Trailers,France,62,"Mckinney, Wagner and Duran",Cancelled
-10198,96607.22,2024-06-24,Vehicle Interiors,Japan,48,EuroFleet Systems,In Process
-10199,27612.95,2023-05-20,Semi-Trailers,UK,58,TransGlobal Motors,Cancelled
-10200,,2023-12-11,Engine Systems,Germany,13,EuroFleet Systems,Disputed
-10201,58043.56,2022-01-11,Transmission Units,Canada,84,Arys Garage Pvt. Ltd.,Resolved
-10202,33053.52,2022-06-11,Electrical Systems,UK,38,Velocity Vehicles,Disputed
-10203,99565.58,2024-08-12,Electrical Systems,Germany,10,EuroFleet Systems,Cancelled
-10204,17162.13,2025-09-04,Chassis Components,Japan,24,Velocity Vehicles,In Process
-10205,46753.16,2021-09-10,Semi-Trailers,Germany,38,DriveTech Distributors,Cancelled
-10206,58936.78,2020-12-31,Semi-Trailers,UK,48,Arys Garage Pvt. Ltd.,On Hold
-10207,66938.83,2020-12-15,Semi-Trailers,Italy,82,DriveTech Distributors,In Process
-10208,15026.59,2022-05-22,Engine Systems,Japan,42,Velocity Vehicles,Shipped
-10209,42046.68,2022-08-16,Semi-Trailers,Italy,64,Arys Garage Pvt. Ltd.,Shipped
-10210,5291.18,2021-10-30,Passenger Vehicles,France,11,Smith Inc,On Hold
-10211,70943.9,2021-12-29,Vehicle Interiors,Japan,25,DriveTech Distributors,In Process
-10212,77709.57,2021-10-30,Transmission Units,Australia,86,Arys Garage Pvt. Ltd.,Shipped
-10213,61620.17,2023-05-23,Electrical Systems,Italy,3,Arys Garage Pvt. Ltd.,On Hold
-10214,77521.58,2021-12-08,Commercial Trucks,France,26,Brown LLC,Cancelled
-10215,24010.68,2023-03-08,Vehicle Interiors,Italy,66,"Hall, Miller and Rodriguez",In Process
-10216,91741.87,2025-08-03,Semi-Trailers,Germany,76,EuroFleet Systems,On Hold
-10217,13571.92,2025-05-07,Vehicle Interiors,Japan,82,DriveTech Distributors,Cancelled
-10218,20149.64,2022-10-20,Engine Systems,Germany,18,EuroFleet Systems,Cancelled
-10219,59142.31,2022-02-25,Commercial Trucks,UK,22,Arys Garage Pvt. Ltd.,On Hold
-10220,81040.85,2024-02-07,Semi-Trailers,USA,38,AutoNation Dealers,Disputed
-10221,98839.42,2022-09-25,Semi-Trailers,France,32,EuroFleet Systems,In Process
-10222,15061.57,2021-08-27,Semi-Trailers,Canada,92,MaxMove Transport,On Hold
-10223,92155.27,2021-06-20,Transmission Units,Canada,66,MaxMove Transport,In Process
-10224,45193.91,2022-11-02,Engine Systems,USA,30,EuroFleet Systems,Resolved
-10225,42872.0,2024-03-15,Passenger Vehicles,France,39,EuroFleet Systems,
-10226,6393.59,2023-09-18,Semi-Trailers,Italy,7,FleetX Logistics Ltd.,On Hold
-10227,30281.64,2024-11-18,Trailers,Canada,52,Baker LLC,Cancelled
-10228,10585.94,2023-01-08,Electrical Systems,Canada,55,TransGlobal Motors,In Process
-10229,98393.7,2021-07-29,Commercial Trucks,Australia,3,EuroFleet Systems,Disputed
-10230,98916.93,2025-04-04,Transmission Units,Canada,64,Martinez Ltd,On Hold
-10231,79071.6,2021-04-13,Engine Systems,Japan,21,MaxMove Transport,Shipped
-10232,82256.59,2022-02-07,Trailers,UK,3,AutoNation Dealers,Resolved
-10233,20314.13,2022-11-03,Transmission Units,Japan,20,MaxMove Transport,Cancelled
-10234,87984.78,2022-03-01,Commercial Trucks,USA,27,TransGlobal Motors,On Hold
-10235,26346.37,2023-11-18,Engine Systems,Japan,25,DriveTech Distributors,In Process
-10236,47780.82,2024-08-29,Passenger Vehicles,France,57,DriveTech Distributors,Disputed
-10237,49791.05,2024-04-01,Semi-Trailers,Australia,88,FleetX Logistics Ltd.,In Process
-10238,96317.49,2024-10-30,Commercial Trucks,Japan,47,AutoNation Dealers,Resolved
-10239,23646.43,2021-01-22,Transmission Units,Italy,24,Arys Garage Pvt. Ltd.,Shipped
-10240,58799.75,2021-12-09,Electrical Systems,Japan,25,DriveTech Distributors,In Process
-10241,7995.2,2024-04-07,Electrical Systems,Canada,2,EuroFleet Systems,In Process
-10242,88206.46,2021-07-18,Semi-Trailers,Italy,93,AutoNation Dealers,Resolved
-10243,61692.54,2023-05-03,Chassis Components,Australia,34,Arys Garage Pvt. Ltd.,Resolved
-10244,65337.99,2022-07-28,Passenger Vehicles,France,23,"Johnson, Adams and Watts",In Process
-10245,49242.7,2025-03-10,Transmission Units,Australia,3,MaxMove Transport,Disputed
-10246,,2023-06-27,Commercial Trucks,Canada,38,TransGlobal Motors,Cancelled
-10247,43103.66,2022-12-18,Trailers,Canada,34,TransGlobal Motors,On Hold
-10248,10459.32,2023-03-22,Trailers,Japan,58,DriveTech Distributors,On Hold
-10249,49427.79,2023-08-12,Engine Systems,UK,53,EuroFleet Systems,Resolved
-10250,21619.04,2023-02-17,Passenger Vehicles,Germany,46,TransGlobal Motors,Shipped
-10251,99580.64,2022-10-04,Vehicle Interiors,Japan,48,EuroFleet Systems,Disputed
-10252,34762.39,2024-08-22,Engine Systems,Japan,86,Davis Ltd,Cancelled
-10253,19374.24,2023-02-12,Electrical Systems,Italy,45,"Nelson, Phillips and Garcia",Shipped
-10254,95305.19,2022-07-14,Chassis Components,Italy,77,MaxMove Transport,Shipped
-10255,85766.97,2022-01-04,Chassis Components,Canada,26,,Resolved
-10256,30362.24,2024-04-22,Chassis Components,Australia,53,"Johnson, Hill and Woods",Resolved
-10257,95768.87,2024-04-21,Electrical Systems,France,69,EuroFleet Systems,Disputed
-10258,61530.42,2025-01-24,Trailers,Canada,21,TransGlobal Motors,Cancelled
-10259,61448.61,2024-05-01,Electrical Systems,Italy,7,EuroFleet Systems,In Process
-10260,69009.24,2023-07-31,Chassis Components,Japan,99,Velocity Vehicles,Resolved
-10261,54779.15,2021-09-14,Transmission Units,UK,36,FleetX Logistics Ltd.,On Hold
-10262,68225.96,2024-09-07,Commercial Trucks,Italy,26,AutoNation Dealers,Shipped
-10263,65550.67,2023-04-03,Chassis Components,Germany,19,"Cox, Joseph and Henderson",Cancelled
-10264,38832.07,2023-07-03,Commercial Trucks,Japan,51,TransGlobal Motors,On Hold
-10265,39107.39,2024-11-09,Commercial Trucks,Italy,55,FleetX Logistics Ltd.,Shipped
-10266,48947.95,2022-02-13,Commercial Trucks,France,89,MaxMove Transport,Shipped
-10267,80212.11,2020-09-21,Semi-Trailers,USA,74,EuroFleet Systems,Cancelled
-10268,17345.41,2021-02-26,Trailers,Australia,23,Velocity Vehicles,Disputed
-10269,95642.8,2025-06-09,Commercial Trucks,UK,47,TransGlobal Motors,In Process
-10270,42871.04,2024-06-16,Semi-Trailers,USA,30,Macdonald-Frank,Shipped
-10271,43671.75,2024-07-16,Transmission Units,Japan,27,AutoNation Dealers,Resolved
-10272,53205.82,2024-05-15,Vehicle Interiors,UK,17,AutoNation Dealers,Resolved
-10273,73260.65,2023-06-01,Transmission Units,Germany,20,FleetX Logistics Ltd.,Cancelled
-10274,88648.14,2021-10-10,Semi-Trailers,Canada,21,DriveTech Distributors,Disputed
-10275,89834.33,2022-12-10,Trailers,Canada,47,AutoNation Dealers,On Hold
-10276,29905.77,2021-05-27,Chassis Components,USA,68,Velocity Vehicles,Shipped
-10277,21387.12,2023-10-21,Vehicle Interiors,France,88,Velocity Vehicles,
-10278,24331.97,2025-02-01,Commercial Trucks,Germany,75,AutoNation Dealers,Shipped
-10279,15526.84,2021-08-10,Chassis Components,USA,61,MaxMove Transport,Shipped
-10280,73508.05,2023-09-06,Transmission Units,UK,66,AutoNation Dealers,Cancelled
-10281,67603.76,2024-02-07,Chassis Components,Canada,67,EuroFleet Systems,In Process
-10282,44915.25,2022-09-22,Electrical Systems,UK,92,Velocity Vehicles,Disputed
-10283,5510.32,2022-06-11,Electrical Systems,France,96,Arys Garage Pvt. Ltd.,Disputed
-10284,83933.0,2021-03-22,Trailers,Japan,76,TransGlobal Motors,Shipped
-10285,5892.3,2020-10-27,Trailers,Canada,74,AutoNation Dealers,
-10286,70161.01,2024-12-01,Chassis Components,Germany,10,DriveTech Distributors,Cancelled
-10287,49991.34,2022-01-19,Engine Systems,USA,80,DriveTech Distributors,Shipped
-10288,31054.45,2022-05-01,Engine Systems,Canada,92,Arys Garage Pvt. Ltd.,In Process
-10289,24394.67,2022-01-17,Electrical Systems,UK,42,FleetX Logistics Ltd.,In Process
-10290,92601.85,2022-10-12,Semi-Trailers,Canada,71,MaxMove Transport,Shipped
-10291,88736.94,2020-10-01,Vehicle Interiors,Germany,49,"Andrade, Lucero and Flores",On Hold
-10292,56146.59,2023-10-20,Chassis Components,Australia,45,Velocity Vehicles,Resolved
-10293,74255.03,2024-04-29,Commercial Trucks,Australia,56,MaxMove Transport,Disputed
-10294,15932.82,2025-01-30,Electrical Systems,Italy,66,"Nguyen, Cochran and Reynolds",In Process
-10295,77229.48,2023-10-29,Electrical Systems,USA,4,AutoNation Dealers,In Process
-10296,54905.43,2021-09-07,Semi-Trailers,UK,51,AutoNation Dealers,Shipped
-10297,98823.18,2021-04-22,Electrical Systems,Canada,13,Arys Garage Pvt. Ltd.,Disputed
-10298,79546.11,2024-01-03,Commercial Trucks,Japan,44,,Cancelled
-10299,11951.52,2024-01-29,Passenger Vehicles,France,63,Arys Garage Pvt. Ltd.,In Process
-10300,46088.74,2022-12-12,Engine Systems,Germany,85,DriveTech Distributors,In Process
-10301,25343.93,2023-01-31,Electrical Systems,Japan,74,TransGlobal Motors,Shipped
-10302,17027.73,2024-08-20,Chassis Components,Japan,41,Velocity Vehicles,Cancelled
-10303,64314.31,2021-09-24,Transmission Units,Japan,72,EuroFleet Systems,Disputed
-10304,91128.04,2025-03-31,Electrical Systems,Australia,10,TransGlobal Motors,Disputed
-10305,36214.45,2023-12-28,Trailers,Canada,3,DriveTech Distributors,Disputed
-10306,99641.86,2022-04-17,Vehicle Interiors,UK,80,FleetX Logistics Ltd.,Shipped
-10307,98782.81,2024-12-22,Engine Systems,Australia,67,AutoNation Dealers,Shipped
-10308,27577.84,2024-07-27,Passenger Vehicles,Italy,99,MaxMove Transport,On Hold
-10309,83902.48,2022-01-26,Engine Systems,Italy,57,AutoNation Dealers,Shipped
-10310,54863.1,2022-06-03,Semi-Trailers,Italy,30,EuroFleet Systems,On Hold
-10311,11804.11,2022-01-31,Semi-Trailers,France,55,EuroFleet Systems,Resolved
-10312,28582.31,2025-05-18,Passenger Vehicles,Germany,20,TransGlobal Motors,In Process
-10313,42279.36,2021-12-19,Commercial Trucks,UK,14,Powell and Sons,On Hold
-10314,,2025-02-14,Vehicle Interiors,France,91,Arys Garage Pvt. Ltd.,Shipped
-10315,73310.58,2024-10-20,Electrical Systems,Italy,43,TransGlobal Motors,Disputed
-10316,38808.4,2023-05-07,Engine Systems,USA,19,FleetX Logistics Ltd.,In Process
-10317,49053.47,2024-10-29,Electrical Systems,Italy,14,Velocity Vehicles,Resolved
-10318,89866.34,2020-11-11,Transmission Units,Germany,38,AutoNation Dealers,Shipped
-10319,89927.93,2023-05-31,Trailers,Germany,80,EuroFleet Systems,Disputed
-10320,,2022-11-30,Engine Systems,Germany,23,Arys Garage Pvt. Ltd.,On Hold
-10321,81802.76,2024-02-17,Chassis Components,Germany,48,Arys Garage Pvt. Ltd.,In Process
-10322,52798.48,2023-01-04,Vehicle Interiors,Japan,67,EuroFleet Systems,Cancelled
-10323,61762.46,2023-04-01,Semi-Trailers,Germany,72,Arys Garage Pvt. Ltd.,Shipped
-10324,53432.24,2024-04-24,Trailers,Australia,36,EuroFleet Systems,On Hold
-10325,15923.08,2021-01-04,Transmission Units,USA,21,AutoNation Dealers,Disputed
-10326,46467.65,2020-11-27,Engine Systems,USA,8,EuroFleet Systems,Disputed
-10327,6832.73,2022-03-24,Semi-Trailers,USA,69,Arys Garage Pvt. Ltd.,Cancelled
-10328,37895.21,2023-08-24,Commercial Trucks,USA,87,MaxMove Transport,Shipped
-10329,5548.69,2021-12-09,Passenger Vehicles,Italy,36,DriveTech Distributors,Resolved
-10330,95812.31,2022-11-08,Vehicle Interiors,Italy,13,"Murray, Middleton and Gentry",In Process
-10331,55086.57,2023-08-07,Electrical Systems,France,70,MaxMove Transport,Disputed
-10332,81207.87,2024-02-13,Chassis Components,USA,97,FleetX Logistics Ltd.,Resolved
-10333,19112.21,2021-11-30,Vehicle Interiors,USA,25,FleetX Logistics Ltd.,Disputed
-10334,69188.18,2022-09-21,Chassis Components,Italy,70,Velocity Vehicles,In Process
-10335,43507.62,2025-06-23,Trailers,France,11,EuroFleet Systems,Disputed
-10336,55174.76,2022-07-05,Chassis Components,France,20,MaxMove Transport,Resolved
-10337,97571.18,2025-07-21,Transmission Units,Australia,57,,Shipped
-10338,25257.0,2020-11-26,Electrical Systems,Japan,58,AutoNation Dealers,On Hold
-10339,19948.55,2022-02-25,Semi-Trailers,Australia,80,Arys Garage Pvt. Ltd.,Cancelled
-10340,66528.92,2023-07-14,Chassis Components,Australia,97,FleetX Logistics Ltd.,Disputed
-10341,40037.44,2022-01-27,Vehicle Interiors,France,94,,In Process
-10342,8000.84,2025-02-17,Passenger Vehicles,Germany,54,Brewer-Mueller,In Process
-10343,,2024-02-11,Chassis Components,Germany,75,EuroFleet Systems,In Process
-10344,13661.21,2020-12-19,Electrical Systems,USA,84,MaxMove Transport,Shipped
-10345,19797.41,2020-09-27,Electrical Systems,USA,13,Stone Group,In Process
-10346,64151.97,2023-09-07,Semi-Trailers,Germany,5,DriveTech Distributors,Disputed
-10347,20117.17,2021-08-04,Electrical Systems,Australia,2,FleetX Logistics Ltd.,Resolved
-10348,76567.96,2025-05-25,Electrical Systems,France,73,Arys Garage Pvt. Ltd.,On Hold
-10349,77751.23,2025-07-03,Engine Systems,Australia,84,TransGlobal Motors,Shipped
-10350,54114.72,2020-12-11,Semi-Trailers,Canada,23,Velocity Vehicles,Disputed
-10351,35019.38,2021-08-09,Trailers,Australia,8,DriveTech Distributors,Resolved
-10352,8512.59,2022-04-04,Transmission Units,France,58,AutoNation Dealers,Resolved
-10353,63948.57,2025-06-15,Transmission Units,Germany,99,Velocity Vehicles,Cancelled
-10354,70109.77,2021-08-03,Passenger Vehicles,UK,17,FleetX Logistics Ltd.,Resolved
-10355,64078.82,2021-04-17,Transmission Units,Australia,21,EuroFleet Systems,Shipped
-10356,90408.51,2023-05-18,Electrical Systems,USA,13,DriveTech Distributors,Shipped
-10357,24768.61,2022-04-06,Trailers,Japan,2,"Young, Hopkins and Rodriguez",Cancelled
-10358,93556.57,2024-09-11,Transmission Units,Italy,53,Velocity Vehicles,Resolved
-10359,19000.32,2021-03-19,Electrical Systems,Australia,18,EuroFleet Systems,Disputed
-10360,91702.55,2021-10-25,Passenger Vehicles,Germany,11,Obrien Ltd,In Process
-10361,97018.04,2025-05-06,Transmission Units,UK,86,MaxMove Transport,Resolved
-10362,69823.96,2021-06-25,Commercial Trucks,USA,89,DriveTech Distributors,Disputed
-10363,33828.58,2024-08-04,Commercial Trucks,France,95,TransGlobal Motors,Shipped
-10364,71447.04,2020-09-30,Semi-Trailers,Australia,75,Velocity Vehicles,On Hold
-10365,29375.57,2023-10-14,Commercial Trucks,Italy,81,Velocity Vehicles,Resolved
-10366,75648.16,2023-05-22,Semi-Trailers,UK,36,FleetX Logistics Ltd.,In Process
-10367,26678.7,2023-12-07,Passenger Vehicles,Italy,37,Velocity Vehicles,In Process
-10368,49827.59,2024-02-14,Engine Systems,Australia,38,EuroFleet Systems,Resolved
-10369,75752.97,2025-03-02,Semi-Trailers,Canada,7,FleetX Logistics Ltd.,In Process
-10370,17775.34,2023-03-19,Commercial Trucks,Japan,6,EuroFleet Systems,Disputed
-10371,54965.89,2021-09-01,Engine Systems,Germany,73,MaxMove Transport,Shipped
-10372,45309.53,2024-10-18,Chassis Components,UK,64,EuroFleet Systems,Shipped
-10373,20401.2,2024-12-30,Commercial Trucks,USA,4,MaxMove Transport,On Hold
-10374,47401.34,2022-02-09,Electrical Systems,Japan,68,Robinson-Woods,Shipped
-10375,53423.72,2024-11-19,Semi-Trailers,Australia,82,Velocity Vehicles,Shipped
-10376,87879.78,2022-05-06,Transmission Units,Germany,24,MaxMove Transport,Resolved
-10377,29229.2,2023-07-08,Engine Systems,UK,40,Velocity Vehicles,Shipped
-10378,50999.45,2022-03-06,Chassis Components,France,28,Cortez Group,Resolved
-10379,74069.27,2024-04-13,Electrical Systems,France,22,DriveTech Distributors,On Hold
-10380,97994.78,2024-08-23,Vehicle Interiors,USA,16,Velocity Vehicles,Resolved
-10381,41028.87,2023-03-29,Vehicle Interiors,France,31,"Singh, Arnold and Golden",Disputed
-10382,19549.84,2023-05-06,Engine Systems,Japan,14,EuroFleet Systems,Shipped
-10383,,2022-10-24,Engine Systems,Australia,61,MaxMove Transport,Cancelled
-10384,42111.64,2021-11-26,Electrical Systems,Germany,64,DriveTech Distributors,Resolved
-10385,76475.38,2024-12-02,Passenger Vehicles,Australia,69,FleetX Logistics Ltd.,Shipped
-10386,83205.05,2022-05-13,Trailers,Japan,90,TransGlobal Motors,Resolved
-10387,49653.32,2023-02-23,Passenger Vehicles,Germany,94,"Torres, Smith and Anderson",In Process
-10388,41308.6,2021-11-27,Chassis Components,Japan,53,EuroFleet Systems,Cancelled
-10389,29162.58,2025-06-13,Chassis Components,Italy,35,DriveTech Distributors,Disputed
-10390,85238.24,2023-08-03,Commercial Trucks,Canada,88,MaxMove Transport,Resolved
-10391,99507.91,2020-10-11,Electrical Systems,UK,94,Velocity Vehicles,Resolved
-10392,67085.54,2022-06-20,Transmission Units,France,7,"Wells, Sutton and Campbell",Cancelled
-10393,81237.73,2021-03-23,Passenger Vehicles,USA,90,Ramirez Ltd,Resolved
-10394,69971.18,2022-06-13,Transmission Units,USA,52,Cooper LLC,Shipped
-10395,79441.94,2021-05-02,Electrical Systems,Germany,18,AutoNation Dealers,Disputed
-10396,20167.46,2023-09-27,Passenger Vehicles,Japan,93,TransGlobal Motors,In Process
-10397,71259.58,2023-02-08,Semi-Trailers,Australia,56,AutoNation Dealers,Shipped
-10398,24959.74,2021-08-21,Trailers,USA,24,Martinez Ltd,On Hold
-10399,60599.97,2024-11-19,Electrical Systems,Germany,38,Dunn Ltd,In Process
-10400,84453.52,2023-10-07,Engine Systems,UK,79,EuroFleet Systems,Resolved
-10401,94858.85,2022-02-03,Electrical Systems,Japan,58,MaxMove Transport,Shipped
-10402,83283.71,2024-10-27,Trailers,Italy,3,Velocity Vehicles,Shipped
-10403,79645.91,2022-12-29,Transmission Units,Germany,76,Arys Garage Pvt. Ltd.,Resolved
-10404,43373.77,2021-12-29,Passenger Vehicles,Italy,99,AutoNation Dealers,Resolved
-10405,31890.67,2023-05-05,Passenger Vehicles,USA,97,EuroFleet Systems,Disputed
-10406,58537.49,2022-11-11,Semi-Trailers,UK,44,DriveTech Distributors,In Process
-10407,98090.6,2023-02-12,Chassis Components,Canada,49,AutoNation Dealers,On Hold
-10408,48207.22,2022-07-30,Vehicle Interiors,Italy,97,DriveTech Distributors,Cancelled
-10409,19234.37,2024-01-03,Chassis Components,France,45,Arys Garage Pvt. Ltd.,In Process
-10410,90839.03,2021-03-22,Vehicle Interiors,USA,60,DriveTech Distributors,On Hold
-10411,83161.8,2021-08-07,Chassis Components,Germany,67,Arys Garage Pvt. Ltd.,Disputed
-10412,51421.28,2021-02-09,Electrical Systems,France,67,,Cancelled
-10413,55593.74,2022-09-22,Trailers,Japan,75,Velocity Vehicles,Resolved
-10414,17961.56,2022-08-05,Vehicle Interiors,UK,42,EuroFleet Systems,Disputed
-10415,41447.38,2022-05-30,Passenger Vehicles,Italy,75,MaxMove Transport,Resolved
-10416,66862.56,2023-09-05,Electrical Systems,France,85,AutoNation Dealers,Shipped
-10417,75091.68,2021-03-08,Electrical Systems,USA,9,"Gay, Tate and Ho",Cancelled
-10418,23314.83,2025-03-07,Electrical Systems,UK,96,AutoNation Dealers,In Process
-10419,64858.3,2024-05-16,Semi-Trailers,Italy,79,"Rowe, Hall and Cole",Disputed
-10420,34209.54,2021-12-15,Vehicle Interiors,Germany,30,Walker Inc,In Process
-10421,19208.15,2024-04-12,Trailers,Australia,83,Mullen-Shaw,Shipped
-10422,86804.37,2021-10-26,Engine Systems,Japan,67,Zavala-Roth,In Process
-10423,71439.8,2024-08-17,Passenger Vehicles,Germany,31,MaxMove Transport,In Process
-10424,8355.01,2022-06-21,Trailers,UK,65,FleetX Logistics Ltd.,Disputed
-10425,91567.79,2024-06-08,Electrical Systems,Germany,89,TransGlobal Motors,On Hold
-10426,52988.22,2021-11-14,Electrical Systems,Italy,51,EuroFleet Systems,Disputed
-10427,24067.42,2021-02-10,Transmission Units,USA,27,Velocity Vehicles,On Hold
-10428,10431.85,2021-08-06,Passenger Vehicles,Japan,1,EuroFleet Systems,In Process
-10429,55215.34,2024-07-27,Vehicle Interiors,Japan,90,Velocity Vehicles,Disputed
-10430,73666.24,2021-07-17,Transmission Units,USA,97,AutoNation Dealers,In Process
-10431,48145.03,2021-11-03,Engine Systems,France,59,EuroFleet Systems,Shipped
-10432,63720.09,2020-11-19,Chassis Components,Italy,15,TransGlobal Motors,Shipped
-10433,80612.86,2023-12-06,Commercial Trucks,France,82,AutoNation Dealers,Disputed
-10434,92450.9,2020-10-08,Chassis Components,USA,1,EuroFleet Systems,Resolved
-10435,16087.71,2022-06-03,Transmission Units,Japan,71,Arys Garage Pvt. Ltd.,Disputed
-10436,,2024-02-26,Engine Systems,Australia,54,DriveTech Distributors,Cancelled
-10437,15253.25,2021-06-03,Passenger Vehicles,Germany,91,Arys Garage Pvt. Ltd.,On Hold
-10438,74102.17,2023-11-30,Electrical Systems,Italy,5,,In Process
-10439,35199.15,2025-09-14,Transmission Units,Germany,79,MaxMove Transport,On Hold
-10440,47864.97,2021-10-19,Semi-Trailers,Australia,12,TransGlobal Motors,Disputed
-10441,11770.75,2024-09-20,Passenger Vehicles,France,46,AutoNation Dealers,Cancelled
-10442,19683.57,2024-04-06,Commercial Trucks,Australia,54,MaxMove Transport,Disputed
-10443,90159.59,2024-04-20,Semi-Trailers,France,38,MaxMove Transport,In Process
-10444,52179.71,2023-09-21,Electrical Systems,UK,43,FleetX Logistics Ltd.,In Process
-10445,35863.73,2022-05-19,Engine Systems,USA,46,Fowler Ltd,On Hold
-10446,56997.22,2025-06-18,Vehicle Interiors,Japan,88,Arys Garage Pvt. Ltd.,Cancelled
-10447,54412.36,2023-06-06,Trailers,Australia,99,"Powers, Russell and Smith",Resolved
-10448,34694.48,2022-03-05,Engine Systems,Japan,87,TransGlobal Motors,Cancelled
-10449,66787.22,2021-05-12,Engine Systems,Germany,13,MaxMove Transport,On Hold
-10450,34850.58,2020-11-18,Semi-Trailers,Canada,52,DriveTech Distributors,Cancelled
-10451,94517.71,2024-02-06,Chassis Components,Italy,31,TransGlobal Motors,In Process
-10452,34231.12,2023-02-12,Chassis Components,USA,95,"Johnson, Mendoza and Owens",Cancelled
-10453,40624.01,2021-04-21,Engine Systems,UK,80,DriveTech Distributors,In Process
-10454,83615.7,2022-04-28,Chassis Components,UK,54,Velocity Vehicles,
-10455,43413.77,2021-02-24,Electrical Systems,UK,30,FleetX Logistics Ltd.,Resolved
-10456,43696.79,2021-09-25,Vehicle Interiors,Canada,56,Arys Garage Pvt. Ltd.,Shipped
-10457,48682.05,2022-11-28,Vehicle Interiors,UK,98,FleetX Logistics Ltd.,Resolved
-10458,71895.14,2022-05-13,Commercial Trucks,Japan,93,Velocity Vehicles,Resolved
-10459,58822.52,2023-08-08,Semi-Trailers,Japan,14,FleetX Logistics Ltd.,Shipped
-10460,70544.09,2023-11-19,Semi-Trailers,USA,38,EuroFleet Systems,Disputed
-10461,68583.51,2022-12-24,Semi-Trailers,UK,84,Morris-Lester,In Process
-10462,93086.91,2024-09-17,Commercial Trucks,Germany,83,,Disputed
-10463,76870.17,2023-07-02,Engine Systems,UK,69,"Whitney, May and Cunningham",In Process
-10464,54434.24,2022-06-28,Chassis Components,Canada,29,Velocity Vehicles,Resolved
-10465,57654.11,2024-08-22,Semi-Trailers,UK,67,EuroFleet Systems,In Process
-10466,78199.83,2024-08-23,Vehicle Interiors,Japan,97,TransGlobal Motors,Disputed
-10467,87566.84,2024-12-04,Electrical Systems,USA,20,Arys Garage Pvt. Ltd.,Disputed
-10468,49863.47,2025-03-07,Semi-Trailers,Australia,9,Evans LLC,Cancelled
-10469,94080.91,2023-07-03,Commercial Trucks,Australia,20,TransGlobal Motors,Cancelled
-10470,27120.48,2023-09-12,Engine Systems,France,80,"Fletcher, White and Jackson",In Process
-10471,82622.73,2025-04-10,Engine Systems,Germany,36,FleetX Logistics Ltd.,
-10472,49286.31,2021-11-13,Electrical Systems,Canada,80,EuroFleet Systems,Cancelled
-10473,80227.85,2022-08-09,Transmission Units,USA,42,MaxMove Transport,Resolved
-10474,34199.95,2025-01-08,Engine Systems,Italy,65,MaxMove Transport,Resolved
-10475,82382.46,2025-08-13,Passenger Vehicles,Australia,68,TransGlobal Motors,In Process
-10476,94798.62,2020-12-11,Transmission Units,France,43,AutoNation Dealers,Cancelled
-10477,25186.01,2022-07-07,Transmission Units,USA,66,MaxMove Transport,In Process
-10478,79168.82,2024-05-25,Vehicle Interiors,Italy,88,EuroFleet Systems,In Process
-10479,41856.54,2023-10-19,Trailers,Australia,92,MaxMove Transport,On Hold
-10480,9156.02,2025-04-21,Semi-Trailers,France,11,FleetX Logistics Ltd.,Cancelled
-10481,45862.53,2025-01-05,Transmission Units,USA,79,AutoNation Dealers,Disputed
-10482,45284.85,2023-12-19,Semi-Trailers,Italy,7,TransGlobal Motors,Cancelled
-10483,7204.26,2022-05-15,Electrical Systems,USA,20,Velocity Vehicles,On Hold
-10484,65041.67,2024-11-21,Electrical Systems,Canada,80,MaxMove Transport,On Hold
-10485,63065.01,2023-02-22,Commercial Trucks,UK,94,FleetX Logistics Ltd.,Disputed
-10486,29549.34,2025-08-10,Chassis Components,Canada,59,TransGlobal Motors,Disputed
-10487,,2025-07-12,Engine Systems,Japan,10,,On Hold
-10488,71341.02,2022-11-02,Passenger Vehicles,Japan,74,AutoNation Dealers,On Hold
-10489,6624.15,2021-09-29,Chassis Components,UK,62,TransGlobal Motors,Shipped
-10490,27813.47,2024-02-24,Semi-Trailers,UK,55,Arys Garage Pvt. Ltd.,In Process
-10491,12716.35,2024-12-26,Semi-Trailers,USA,64,EuroFleet Systems,On Hold
-10492,80005.12,2024-06-03,Commercial Trucks,USA,52,EuroFleet Systems,In Process
-10493,23426.67,2025-06-16,Engine Systems,Japan,2,"Mccoy, Mitchell and Mason",Cancelled
-10494,44856.74,2022-01-28,Engine Systems,Italy,18,"Johnson, Guzman and Obrien",On Hold
-10495,37184.96,2021-11-05,Electrical Systems,USA,29,FleetX Logistics Ltd.,Cancelled
-10496,89548.8,2024-12-07,Semi-Trailers,Italy,78,EuroFleet Systems,On Hold
-10497,67337.49,2022-08-04,Electrical Systems,USA,62,MaxMove Transport,Disputed
-10498,99626.83,2022-12-02,Vehicle Interiors,Germany,89,Arys Garage Pvt. Ltd.,Disputed
-10499,17450.6,2023-03-06,Engine Systems,Canada,48,Dunn and Sons,In Process
-10500,83610.1,2025-09-17,Vehicle Interiors,Germany,56,FleetX Logistics Ltd.,Cancelled
-10404,43373.77,2021-12-29,Passenger Vehicles,Italy,99,AutoNation Dealers,Resolved
-10402,83283.71,2024-10-27,Trailers,Italy,3,Velocity Vehicles,Shipped
-10354,70109.77,2021-08-03,Passenger Vehicles,UK,17,FleetX Logistics Ltd.,Resolved
-10362,69823.96,2021-06-25,Commercial Trucks,USA,89,DriveTech Distributors,Disputed
-10320,,2022-11-30,Engine Systems,Germany,23,Arys Garage Pvt. Ltd.,On Hold
+10001,61288.06,2020-08-17,Commercial Trucks,USA,22,EuroFleet Systems,Resolved
+10002,63144.11,2020-04-08,Semi-Trailers,Germany,5,MetroFleet Auto Group,Delivered
+10003,69323.75,2020-09-07,Commercial Trucks,France,58,FleetX Logistics Ltd.,Delivered
+10004,62427.42,2020-02-02,Commercial Trucks,USA,54,EuroFleet Systems,Cancelled
+10005,58800.66,2020-08-13,Chassis Components,France,76,AutoNation Dealers,Resolved
+10006,20474.46,2020-03-12,Semi-Trailers,Canada,33,MaxMove Transport,
+10007,26442.31,2020-12-15,Trailers,Germany,62,Velocity Vehicles,Delivered
+10008,63731.98,2020-09-01,Chassis Components,Italy,71,EuroFleet Systems,Delivered
+10009,38417.74,2020-09-17,Trailers,Italy,77,EuroFleet Systems,Delivered
+10010,16399.65,2020-04-16,Commercial Trucks,Australia,67,DriveTech Distributors,Delivered
+10011,14109.42,2020-10-22,Passenger Vehicles,UK,41,MaxMove Transport,Delivered
+10012,20922.7,2020-08-11,Passenger Vehicles,USA,99,MetroFleet Auto Group,Delivered
+10013,20571.71,2020-05-29,Transmission Units,Canada,49,MaxMove Transport,Resolved
+10014,67303.87,2020-04-30,Commercial Trucks,France,99,AutoNation Dealers,Cancelled
+10015,56106.42,2020-07-23,Commercial Trucks,UK,28,EuroFleet Systems,Delivered
+10016,7777.86,2020-11-21,Passenger Vehicles,Canada,31,EuroFleet Systems,Delivered
+10017,46662.15,2020-01-20,Passenger Vehicles,Canada,77,MetroFleet Auto Group,Delivered
+10018,10980.93,2020-05-08,Passenger Vehicles,USA,68,TransGlobal Motors,Resolved
+10019,41434.11,2020-11-20,Engine Systems,Japan,85,DriveTech Distributors,Delivered
+10020,51938.07,2020-06-08,Semi-Trailers,France,67,AutoNation Dealers,Delivered
+10021,32468.5,2020-08-11,Commercial Trucks,Germany,39,MaxMove Transport,Cancelled
+10022,43418.5,2020-04-29,Passenger Vehicles,Italy,13,TransGlobal Motors,Delivered
+10023,28757.09,2020-05-03,Passenger Vehicles,USA,32,Velocity Vehicles,Delivered
+10024,18206.43,2020-11-10,Commercial Trucks,Canada,5,DriveTech Distributors,Delivered
+10025,16411.79,2020-05-18,Passenger Vehicles,USA,58,EuroFleet Systems,Delivered
+10026,29366.12,2020-11-18,Passenger Vehicles,USA,20,Velocity Vehicles,Delivered
+10027,16726.49,2020-07-13,Vehicle Interiors,Japan,31,EuroFleet Systems,Delivered
+10028,65101.11,2020-01-22,Passenger Vehicles,Japan,5,TransGlobal Motors,Delivered
+10029,55864.65,2020-09-13,Commercial Trucks,Germany,22,"Williams, Barnes and White",Resolved
+10030,67669.79,2020-01-29,Commercial Trucks,UK,20,MetroFleet Auto Group,Delivered
+10031,50839.75,2020-01-03,Chassis Components,Australia,29,AutoNation Dealers,Delivered
+10032,51601.22,2020-10-08,Passenger Vehicles,USA,64,MetroFleet Auto Group,Delivered
+10033,13542.06,2020-12-05,Commercial Trucks,USA,79,EuroFleet Systems,Cancelled
+10034,61948.35,2020-09-15,Passenger Vehicles,Japan,53,FleetX Logistics Ltd.,Delivered
+10035,35626.57,2020-12-11,Passenger Vehicles,Italy,24,FleetX Logistics Ltd.,Cancelled
+10036,28334.21,2020-08-05,Passenger Vehicles,USA,23,Velocity Vehicles,Delivered
+10037,26208.97,2020-02-11,Chassis Components,USA,37,"Raymond, Rios and Lucero",Delivered
+10038,19715.62,2020-08-13,Commercial Trucks,France,98,DriveTech Distributors,Delivered
+10039,67378.94,2020-01-24,Commercial Trucks,France,88,MaxMove Transport,Delivered
+10040,10632.73,2020-02-14,Trailers,UK,96,AutoNation Dealers,Cancelled
+10041,6003.68,2020-12-17,Passenger Vehicles,USA,22,DriveTech Distributors,Disputed
+10042,50720.52,2020-03-15,Commercial Trucks,Italy,9,Collins-Nicholson,Delivered
+10043,64717.14,2020-04-25,Passenger Vehicles,France,35,MaxMove Transport,
+10044,16926.97,2020-04-07,Transmission Units,UK,87,DriveTech Distributors,Delivered
+10045,65104.04,2020-05-27,Passenger Vehicles,Italy,83,Velocity Vehicles,Delivered
+10046,44982.81,2020-11-17,Commercial Trucks,Australia,82,EuroFleet Systems,Delivered
+10047,38285.93,2020-03-31,Vehicle Interiors,Germany,66,"Adams, Garcia and Schneider",Resolved
+10048,9322.85,2020-02-13,Trailers,UK,53,Murphy-Gonzalez,Delivered
+10049,38702.48,2020-02-23,Vehicle Interiors,France,66,FleetX Logistics Ltd.,Delivered
+10050,36412.75,2020-12-23,Passenger Vehicles,Japan,15,AutoNation Dealers,Delivered
+10051,38370.35,2020-05-12,Engine Systems,Germany,30,DriveTech Distributors,Delivered
+10052,56148.86,2020-11-15,Commercial Trucks,Japan,22,DriveTech Distributors,Delivered
+10053,66690.89,2020-12-21,Passenger Vehicles,Italy,96,MetroFleet Auto Group,Delivered
+10054,56501.71,2020-10-11,Passenger Vehicles,France,85,DriveTech Distributors,Delivered
+10055,33189.76,2020-01-19,Passenger Vehicles,Japan,5,FleetX Logistics Ltd.,Delivered
+10056,30792.38,2021-09-20,Commercial Trucks,Italy,44,Velocity Vehicles,Delivered
+10057,31028.53,2021-10-21,Commercial Trucks,France,91,TransGlobal Motors,Delivered
+10058,17222.93,2021-09-18,Vehicle Interiors,France,36,MetroFleet Auto Group,Delivered
+10059,12622.98,2021-12-24,Commercial Trucks,France,49,MetroFleet Auto Group,Delivered
+10060,25018.91,2021-11-09,Transmission Units,Australia,94,TransGlobal Motors,Delivered
+10061,21202.52,2021-12-11,Passenger Vehicles,France,66,FleetX Logistics Ltd.,Delivered
+10062,50634.75,2021-07-11,Engine Systems,Italy,26,AutoNation Dealers,Disputed
+10063,,2021-10-30,Trailers,France,30,DriveTech Distributors,Delivered
+10064,12254.85,2021-10-21,Commercial Trucks,Italy,77,"Henry, Rivers and Henry",Delivered
+10065,43438.75,2021-03-04,Chassis Components,Japan,41,DriveTech Distributors,Delivered
+10066,22198.31,2021-12-19,Electrical Systems,Germany,45,TransGlobal Motors,Resolved
+10067,17406.25,2021-04-13,Trailers,Australia,13,Velocity Vehicles,Delivered
+10068,52648.32,2021-09-21,Chassis Components,UK,99,Zimmerman PLC,Delivered
+10069,57610.45,2021-07-01,Passenger Vehicles,Japan,5,DriveTech Distributors,Delivered
+10070,50458.13,2021-09-07,Passenger Vehicles,Japan,13,Lopez LLC,Delivered
+10071,36668.33,2021-09-26,Transmission Units,France,55,AutoNation Dealers,Delivered
+10072,30034.93,2021-04-30,Commercial Trucks,France,80,FleetX Logistics Ltd.,Delivered
+10073,10696.02,2021-11-29,Passenger Vehicles,Germany,7,MaxMove Transport,Delivered
+10074,,2021-01-18,Passenger Vehicles,Germany,72,MaxMove Transport,Delivered
+10075,7670.08,2021-02-25,Passenger Vehicles,UK,83,DriveTech Distributors,Cancelled
+10076,25213.47,2021-09-22,Passenger Vehicles,UK,56,TransGlobal Motors,Delivered
+10077,31208.96,2021-06-21,Commercial Trucks,Canada,13,Velocity Vehicles,Delivered
+10078,8078.77,2021-11-01,Chassis Components,Italy,25,FleetX Logistics Ltd.,Delivered
+10079,18049.55,2021-12-01,Vehicle Interiors,Japan,73,FleetX Logistics Ltd.,Delivered
+10080,32077.93,2021-01-23,Passenger Vehicles,UK,47,Berry-Reese,Cancelled
+10081,33304.36,2021-02-15,Passenger Vehicles,UK,36,DriveTech Distributors,Delivered
+10082,53349.85,2021-11-22,Passenger Vehicles,UK,99,MaxMove Transport,Resolved
+10083,6105.07,2021-05-09,Passenger Vehicles,Germany,46,Payne LLC,Delivered
+10084,35828.46,2021-07-07,Chassis Components,France,68,TransGlobal Motors,Delivered
+10085,15468.58,2021-06-05,Commercial Trucks,Canada,68,Velocity Vehicles,Delivered
+10086,49339.57,2021-12-22,Commercial Trucks,Japan,63,MetroFleet Auto Group,Delivered
+10087,12963.59,2021-06-17,Commercial Trucks,Canada,33,EuroFleet Systems,Delivered
+10088,53174.48,2021-03-19,Chassis Components,France,4,EuroFleet Systems,Delivered
+10089,4508.22,2021-06-16,Passenger Vehicles,Australia,26,TransGlobal Motors,Delivered
+10090,27691.8,2021-03-22,Semi-Trailers,Australia,97,MaxMove Transport,Cancelled
+10091,19938.36,2021-05-27,Trailers,Australia,82,Velocity Vehicles,Delivered
+10092,24337.88,2021-06-12,Trailers,UK,73,TransGlobal Motors,Delivered
+10093,7131.84,2021-04-28,Commercial Trucks,France,78,EuroFleet Systems,Delivered
+10094,42402.67,2021-08-25,Commercial Trucks,Japan,37,Velocity Vehicles,Delivered
+10095,32203.79,2021-09-11,Commercial Trucks,Australia,95,Velocity Vehicles,Disputed
+10096,8715.64,2021-11-16,Electrical Systems,Australia,99,TransGlobal Motors,Delivered
+10097,43406.23,2021-09-21,Passenger Vehicles,Germany,91,MaxMove Transport,Cancelled
+10098,15346.95,2021-07-22,Transmission Units,Germany,23,Velocity Vehicles,Delivered
+10099,25948.54,2021-06-15,Semi-Trailers,Germany,90,DriveTech Distributors,Delivered
+10100,36900.43,2022-12-29,Passenger Vehicles,Australia,76,TransGlobal Motors,
+10101,30185.1,2022-03-27,Commercial Trucks,Japan,99,FleetX Logistics Ltd.,Delivered
+10102,20322.94,2022-08-23,Electrical Systems,USA,95,DriveTech Distributors,Delivered
+10103,63380.71,2022-06-05,Passenger Vehicles,Japan,58,TransGlobal Motors,Resolved
+10104,51128.92,2022-10-15,Passenger Vehicles,Italy,11,,Delivered
+10105,68182.34,2022-06-21,Commercial Trucks,France,34,Barr Inc,Delivered
+10106,59060.17,2022-04-12,Passenger Vehicles,Canada,46,DriveTech Distributors,Resolved
+10107,68341.37,2022-10-18,Passenger Vehicles,Italy,35,MetroFleet Auto Group,Resolved
+10108,19237.4,2022-01-18,Commercial Trucks,Germany,91,MetroFleet Auto Group,Delivered
+10109,15271.38,2022-10-29,Passenger Vehicles,Canada,13,Velocity Vehicles,Delivered
+10110,51713.13,2022-07-15,Semi-Trailers,USA,36,DriveTech Distributors,Cancelled
+10111,22500.22,2022-06-28,Semi-Trailers,Canada,66,DriveTech Distributors,Disputed
+10112,18807.16,2022-05-19,Chassis Components,France,17,DriveTech Distributors,Delivered
+10113,46143.11,2022-01-25,Passenger Vehicles,France,96,FleetX Logistics Ltd.,Delivered
+10114,37928.16,2022-05-12,Passenger Vehicles,Japan,14,MetroFleet Auto Group,Cancelled
+10115,42639.73,2022-03-07,Electrical Systems,Canada,72,"Thompson, White and Klein",Delivered
+10116,49635.11,2022-07-21,Vehicle Interiors,Germany,48,DriveTech Distributors,Delivered
+10117,44570.24,2022-08-08,Engine Systems,Japan,16,MetroFleet Auto Group,Delivered
+10118,5056.06,2022-11-06,Chassis Components,Canada,19,MetroFleet Auto Group,Cancelled
+10119,28005.05,2022-08-13,Passenger Vehicles,UK,70,EuroFleet Systems,Cancelled
+10120,11390.12,2022-03-08,Passenger Vehicles,UK,81,Davis Ltd,Delivered
+10121,63751.15,2022-08-26,Commercial Trucks,USA,97,MetroFleet Auto Group,Delivered
+10122,52067.19,2022-12-27,Trailers,Australia,93,Jones-Morris,Delivered
+10123,13799.02,2022-06-11,Passenger Vehicles,Germany,12,Owens Group,Cancelled
+10124,44645.26,2022-01-06,Passenger Vehicles,Japan,26,DriveTech Distributors,Delivered
+10125,55080.71,2022-06-06,Commercial Trucks,USA,55,Velocity Vehicles,Delivered
+10126,68969.36,2022-09-08,Passenger Vehicles,UK,75,Fox PLC,Delivered
+10127,47814.3,2022-12-07,Commercial Trucks,UK,70,DriveTech Distributors,Resolved
+10128,18039.92,2022-08-03,Passenger Vehicles,USA,78,FleetX Logistics Ltd.,Delivered
+10129,65260.51,2022-12-16,Semi-Trailers,UK,73,"Petersen, Brown and Houston",Cancelled
+10130,24959.01,2022-11-18,Semi-Trailers,UK,28,MaxMove Transport,Delivered
+10131,34631.89,2022-04-09,Trailers,France,91,Velocity Vehicles,Delivered
+10132,27340.94,2022-03-15,Semi-Trailers,Germany,24,FleetX Logistics Ltd.,Delivered
+10133,33232.69,2022-12-21,Passenger Vehicles,Germany,99,Velocity Vehicles,Delivered
+10134,19680.07,2022-07-18,Commercial Trucks,France,76,MetroFleet Auto Group,Delivered
+10135,46694.1,2022-04-14,Chassis Components,France,38,MetroFleet Auto Group,Resolved
+10136,16474.71,2022-01-07,Transmission Units,Canada,4,EuroFleet Systems,Delivered
+10137,,2022-08-12,Chassis Components,France,32,EuroFleet Systems,Delivered
+10138,21874.13,2022-02-08,Engine Systems,Canada,52,AutoNation Dealers,Delivered
+10139,6736.55,2022-06-26,Passenger Vehicles,Japan,35,Velocity Vehicles,Cancelled
+10140,4115.68,2022-03-09,Commercial Trucks,France,51,DriveTech Distributors,Delivered
+10141,10127.06,2022-08-22,Passenger Vehicles,Germany,52,TransGlobal Motors,Delivered
+10142,14730.54,2022-05-19,Passenger Vehicles,USA,38,Walker Group,Delivered
+10143,30765.74,2022-06-28,Commercial Trucks,Japan,34,DriveTech Distributors,Delivered
+10144,7637.66,2022-08-01,Passenger Vehicles,France,44,Patton-Hensley,Delivered
+10145,7078.97,2022-09-06,Commercial Trucks,Italy,74,MetroFleet Auto Group,Delivered
+10146,10222.02,2022-12-12,Commercial Trucks,Australia,19,AutoNation Dealers,Delivered
+10147,66218.82,2022-01-05,Passenger Vehicles,Japan,86,AutoNation Dealers,Disputed
+10148,60346.5,2022-02-11,Passenger Vehicles,USA,85,Velocity Vehicles,Delivered
+10149,52772.98,2022-10-01,Passenger Vehicles,Japan,10,EuroFleet Systems,Disputed
+10150,56335.86,2022-03-02,Vehicle Interiors,Germany,39,AutoNation Dealers,Delivered
+10151,18003.95,2022-08-19,Semi-Trailers,USA,1,TransGlobal Motors,Delivered
+10152,52834.58,2022-06-30,Passenger Vehicles,Australia,25,Guerrero-Sawyer,Delivered
+10153,52391.78,2022-11-16,Passenger Vehicles,Germany,43,EuroFleet Systems,Disputed
+10154,7232.58,2022-03-12,Passenger Vehicles,Australia,76,TransGlobal Motors,Delivered
+10155,29107.93,2022-05-22,Commercial Trucks,Australia,63,MaxMove Transport,Resolved
+10156,46963.72,2022-11-13,Passenger Vehicles,UK,73,Velocity Vehicles,Delivered
+10157,55265.01,2022-06-13,Passenger Vehicles,Italy,11,FleetX Logistics Ltd.,Cancelled
+10158,67350.9,2022-06-15,Semi-Trailers,Italy,17,EuroFleet Systems,Delivered
+10159,20130.64,2022-01-14,Semi-Trailers,France,50,DriveTech Distributors,Cancelled
+10160,4116.98,2022-10-28,Commercial Trucks,UK,32,DriveTech Distributors,Cancelled
+10161,4995.7,2022-04-27,Trailers,Australia,30,"Mccoy, Johnson and Davenport",Delivered
+10162,17273.1,2022-03-11,Passenger Vehicles,Australia,24,EuroFleet Systems,Delivered
+10163,13673.0,2022-02-11,Passenger Vehicles,Australia,2,MaxMove Transport,Delivered
+10164,30678.48,2022-10-25,Semi-Trailers,France,9,TransGlobal Motors,Delivered
+10165,36928.75,2022-11-06,Commercial Trucks,Canada,54,DriveTech Distributors,Delivered
+10166,53224.27,2022-10-09,Commercial Trucks,Italy,44,MaxMove Transport,Delivered
+10167,24532.99,2022-07-09,Passenger Vehicles,Germany,3,MetroFleet Auto Group,Delivered
+10168,7460.71,2022-03-04,Passenger Vehicles,USA,19,MaxMove Transport,Cancelled
+10169,63121.77,2022-01-21,Commercial Trucks,Australia,94,MetroFleet Auto Group,Delivered
+10170,63383.35,2022-04-25,Passenger Vehicles,Australia,93,MetroFleet Auto Group,Delivered
+10171,28684.43,2022-04-16,Passenger Vehicles,Canada,58,AutoNation Dealers,Disputed
+10172,13943.88,2022-12-12,Trailers,Canada,83,AutoNation Dealers,Resolved
+10173,60465.63,2022-04-07,Chassis Components,Australia,61,Velocity Vehicles,Delivered
+10174,34982.11,2022-05-09,Passenger Vehicles,UK,13,AutoNation Dealers,Delivered
+10175,50339.22,2022-10-20,Vehicle Interiors,Germany,31,FleetX Logistics Ltd.,Delivered
+10176,68807.71,2022-12-02,Passenger Vehicles,Australia,61,DriveTech Distributors,Resolved
+10177,50034.58,2022-10-15,Passenger Vehicles,France,16,TransGlobal Motors,Resolved
+10178,6501.93,2022-05-25,Passenger Vehicles,Australia,10,EuroFleet Systems,Delivered
+10179,54593.77,2022-10-26,Passenger Vehicles,Germany,28,MetroFleet Auto Group,Cancelled
+10180,15347.2,2022-02-20,Transmission Units,UK,36,Anderson LLC,Delivered
+10181,28677.81,2022-03-16,Trailers,France,84,MaxMove Transport,Delivered
+10182,5869.82,2023-01-18,Passenger Vehicles,France,88,TransGlobal Motors,On Hold
+10183,57520.49,2023-12-03,Passenger Vehicles,UK,28,Velocity Vehicles,Shipped
+10184,13755.83,2023-01-09,Engine Systems,Italy,78,AutoNation Dealers,Shipped
+10185,47310.19,2023-03-03,Passenger Vehicles,Canada,85,FleetX Logistics Ltd.,Delivered
+10186,26505.57,2023-08-14,Passenger Vehicles,Germany,54,FleetX Logistics Ltd.,Delivered
+10187,79713.8,2023-12-19,Semi-Trailers,Australia,72,TransGlobal Motors,Shipped
+10188,58641.57,2023-06-14,Semi-Trailers,France,52,"Brown, Olsen and Zhang",Delivered
+10189,55908.12,2023-03-04,Commercial Trucks,USA,42,EuroFleet Systems,Resolved
+10190,20056.18,2023-05-04,Passenger Vehicles,USA,47,,Delivered
+10191,58903.42,2023-03-14,Semi-Trailers,France,81,Yang-Peterson,Shipped
+10192,4191.31,2023-07-13,Transmission Units,Italy,18,Brown-Boyle,Cancelled
+10193,39927.54,2023-12-14,Passenger Vehicles,USA,68,DriveTech Distributors,Shipped
+10194,62497.7,2023-10-14,Semi-Trailers,Japan,65,AutoNation Dealers,Delivered
+10195,50638.85,2023-10-13,Engine Systems,USA,29,MetroFleet Auto Group,Cancelled
+10196,11435.73,2023-04-25,Commercial Trucks,UK,80,EuroFleet Systems,Delivered
+10197,68583.85,2023-12-12,Commercial Trucks,Italy,33,AutoNation Dealers,Delivered
+10198,54648.05,2023-11-25,Passenger Vehicles,Australia,69,TransGlobal Motors,Shipped
+10199,46150.98,2023-12-16,Trailers,Germany,80,TransGlobal Motors,Delivered
+10200,37192.21,2023-09-30,Transmission Units,USA,74,EuroFleet Systems,Delivered
+10201,53545.72,2023-08-03,Passenger Vehicles,Canada,64,FleetX Logistics Ltd.,Delivered
+10202,58432.23,2023-01-03,Passenger Vehicles,Australia,37,,Delivered
+10203,35781.9,2023-07-16,Passenger Vehicles,Germany,1,MaxMove Transport,Delivered
+10204,21329.46,2023-11-04,Commercial Trucks,Australia,55,MetroFleet Auto Group,Resolved
+10205,68839.88,2023-04-27,Commercial Trucks,Germany,12,MaxMove Transport,Delivered
+10206,75122.57,2023-06-24,Semi-Trailers,Germany,66,MaxMove Transport,Delivered
+10207,54002.52,2023-12-28,Passenger Vehicles,Italy,12,TransGlobal Motors,Disputed
+10208,57530.49,2023-10-29,Passenger Vehicles,USA,72,TransGlobal Motors,Delivered
+10209,63505.98,2023-08-16,Semi-Trailers,Canada,94,FleetX Logistics Ltd.,Shipped
+10210,61242.76,2023-10-27,Passenger Vehicles,UK,48,TransGlobal Motors,Shipped
+10211,58102.17,2023-10-27,Commercial Trucks,Canada,14,FleetX Logistics Ltd.,Delivered
+10212,69983.46,2023-02-05,Semi-Trailers,UK,70,FleetX Logistics Ltd.,Delivered
+10213,25780.67,2023-04-08,Passenger Vehicles,Italy,16,DriveTech Distributors,Resolved
+10214,58648.82,2023-12-21,Passenger Vehicles,Germany,37,MetroFleet Auto Group,Resolved
+10215,47282.53,2023-02-22,Chassis Components,Germany,41,EuroFleet Systems,Delivered
+10216,65905.69,2023-05-03,Commercial Trucks,UK,81,FleetX Logistics Ltd.,Delivered
+10217,69817.27,2023-04-25,Trailers,Japan,9,TransGlobal Motors,Delivered
+10218,10433.58,2023-02-24,Passenger Vehicles,Canada,67,EuroFleet Systems,Shipped
+10219,35498.09,2023-01-25,Passenger Vehicles,France,10,DriveTech Distributors,Delivered
+10220,64953.07,2023-01-17,Trailers,Japan,17,Velocity Vehicles,Resolved
+10221,26566.71,2023-10-06,Engine Systems,Japan,48,EuroFleet Systems,Delivered
+10222,55479.89,2023-08-18,Commercial Trucks,France,2,TransGlobal Motors,Delivered
+10223,43554.16,2023-01-06,Vehicle Interiors,UK,71,Oliver Group,Disputed
+10224,64951.58,2023-08-04,Commercial Trucks,Italy,22,MaxMove Transport,Delivered
+10225,24421.84,2023-08-17,Commercial Trucks,Japan,70,Velocity Vehicles,Delivered
+10226,6881.27,2023-05-17,Engine Systems,Japan,78,TransGlobal Motors,Cancelled
+10227,73773.4,2023-06-14,Chassis Components,Australia,75,MetroFleet Auto Group,Shipped
+10228,62028.11,2023-04-27,Passenger Vehicles,Japan,75,DriveTech Distributors,Delivered
+10229,27541.04,2023-08-12,Engine Systems,Australia,78,AutoNation Dealers,Delivered
+10230,78668.19,2023-05-24,Passenger Vehicles,Canada,49,AutoNation Dealers,Resolved
+10231,66486.33,2023-12-02,Passenger Vehicles,Australia,98,"Steele, Duffy and Neal",Delivered
+10232,44869.58,2023-03-28,Passenger Vehicles,Canada,50,DriveTech Distributors,Shipped
+10233,73608.06,2023-02-26,Chassis Components,USA,55,Velocity Vehicles,Delivered
+10234,32169.58,2023-09-19,Trailers,Canada,63,Shaw-Foley,Shipped
+10235,21738.09,2023-06-30,Passenger Vehicles,Canada,43,"Ward, Maddox and Garrett",Delivered
+10236,17967.78,2023-04-17,Commercial Trucks,Australia,33,DriveTech Distributors,Delivered
+10237,64578.06,2023-06-07,Chassis Components,Italy,83,Hartman PLC,Shipped
+10238,50387.26,2023-07-27,Commercial Trucks,Italy,85,FleetX Logistics Ltd.,Delivered
+10239,8193.54,2023-03-16,Passenger Vehicles,Canada,42,,Delivered
+10240,74673.39,2023-05-03,Commercial Trucks,Canada,98,EuroFleet Systems,Delivered
+10241,43297.63,2023-01-30,Passenger Vehicles,France,16,"Ellis, Nichols and Goodwin",Delivered
+10242,36142.64,2023-08-22,Trailers,USA,31,MaxMove Transport,Delivered
+10243,52859.61,2023-03-19,Passenger Vehicles,Germany,58,EuroFleet Systems,Delivered
+10244,28364.4,2023-06-03,Commercial Trucks,Japan,51,EuroFleet Systems,In Process
+10245,75337.46,2023-03-14,Transmission Units,Australia,20,TransGlobal Motors,Resolved
+10246,12147.9,2023-02-12,Passenger Vehicles,Canada,18,EuroFleet Systems,Resolved
+10247,35993.35,2023-01-29,Passenger Vehicles,Japan,12,,In Process
+10248,49952.26,2023-10-17,Engine Systems,Canada,54,TransGlobal Motors,Cancelled
+10249,39980.93,2023-08-12,Trailers,Japan,2,DriveTech Distributors,Shipped
+10250,7022.32,2023-07-31,Engine Systems,France,61,EuroFleet Systems,Delivered
+10251,43409.38,2023-08-13,Semi-Trailers,UK,87,MetroFleet Auto Group,Shipped
+10252,10847.48,2023-12-25,Chassis Components,Germany,30,DriveTech Distributors,Shipped
+10253,73959.99,2023-09-17,Engine Systems,UK,14,MaxMove Transport,Cancelled
+10254,55802.94,2023-05-24,Passenger Vehicles,Canada,82,Velocity Vehicles,Shipped
+10255,49158.07,2023-01-29,Passenger Vehicles,Italy,84,MaxMove Transport,Cancelled
+10256,,2023-06-27,Chassis Components,France,63,TransGlobal Motors,In Process
+10257,75511.96,2023-12-24,Passenger Vehicles,Canada,65,EuroFleet Systems,Cancelled
+10258,13021.94,2023-03-23,Passenger Vehicles,Japan,24,MetroFleet Auto Group,Delivered
+10259,71618.77,2023-02-27,Commercial Trucks,France,94,,Cancelled
+10260,68801.45,2023-04-04,Commercial Trucks,USA,48,DriveTech Distributors,Cancelled
+10261,11235.02,2023-10-06,Passenger Vehicles,Japan,72,AutoNation Dealers,Delivered
+10262,18794.65,2023-04-27,Commercial Trucks,Japan,21,AutoNation Dealers,Delivered
+10263,79069.03,2023-01-06,Chassis Components,Japan,57,TransGlobal Motors,In Process
+10264,39543.67,2023-05-04,Passenger Vehicles,Canada,48,Stokes-Ortiz,Delivered
+10265,25420.43,2023-03-02,Semi-Trailers,Japan,7,MaxMove Transport,Cancelled
+10266,51745.18,2023-07-22,Passenger Vehicles,Italy,19,MaxMove Transport,Cancelled
+10267,60988.03,2023-07-03,Engine Systems,Japan,62,MaxMove Transport,Shipped
+10268,63738.3,2023-05-07,Transmission Units,Canada,49,TransGlobal Motors,Delivered
+10269,21855.27,2023-02-02,Commercial Trucks,UK,91,EuroFleet Systems,Delivered
+10270,35093.27,2023-06-19,Passenger Vehicles,Italy,28,MaxMove Transport,Shipped
+10271,9470.18,2023-11-29,Commercial Trucks,Germany,56,DriveTech Distributors,Delivered
+10272,14989.35,2023-11-27,Passenger Vehicles,Japan,38,FleetX Logistics Ltd.,Cancelled
+10273,54787.17,2023-05-24,Passenger Vehicles,Germany,19,MaxMove Transport,Delivered
+10274,40242.26,2023-06-23,Passenger Vehicles,Japan,57,EuroFleet Systems,In Process
+10275,5980.9,2023-06-30,Commercial Trucks,USA,65,MetroFleet Auto Group,Cancelled
+10276,46026.11,2023-06-12,Trailers,Japan,42,TransGlobal Motors,Delivered
+10277,42340.56,2023-03-22,Passenger Vehicles,Italy,76,MetroFleet Auto Group,In Process
+10278,8465.72,2023-08-05,Passenger Vehicles,USA,63,FleetX Logistics Ltd.,Delivered
+10279,64269.37,2023-01-21,Passenger Vehicles,France,77,Rowe-Arnold,In Process
+10280,45214.11,2023-06-02,Passenger Vehicles,Australia,62,AutoNation Dealers,Delivered
+10281,32341.89,2023-02-24,Passenger Vehicles,France,68,EuroFleet Systems,Delivered
+10282,,2023-02-06,Passenger Vehicles,UK,39,FleetX Logistics Ltd.,Resolved
+10283,44103.26,2023-03-04,Passenger Vehicles,Australia,97,MaxMove Transport,Resolved
+10284,59565.51,2023-10-14,Passenger Vehicles,Japan,64,MaxMove Transport,Delivered
+10285,15524.84,2023-11-14,Commercial Trucks,Italy,29,George Group,Delivered
+10286,29492.22,2023-11-26,Commercial Trucks,France,14,FleetX Logistics Ltd.,Shipped
+10287,56800.14,2023-08-20,Passenger Vehicles,Canada,29,MetroFleet Auto Group,Delivered
+10288,75127.38,2023-12-04,Engine Systems,Italy,19,MaxMove Transport,Delivered
+10289,22576.93,2023-08-10,Chassis Components,Germany,22,FleetX Logistics Ltd.,In Process
+10290,38339.16,2023-09-03,Passenger Vehicles,Australia,94,"Phillips, Smith and Davis",
+10291,19508.73,2023-05-28,Semi-Trailers,Canada,86,TransGlobal Motors,
+10292,69155.5,2023-12-07,Passenger Vehicles,France,97,EuroFleet Systems,Delivered
+10293,59743.22,2023-11-13,Passenger Vehicles,Italy,15,EuroFleet Systems,Delivered
+10294,,2023-01-14,Passenger Vehicles,UK,73,FleetX Logistics Ltd.,Delivered
+10295,29291.53,2023-03-08,Engine Systems,Australia,89,FleetX Logistics Ltd.,Disputed
+10296,22623.06,2023-08-12,Semi-Trailers,UK,93,TransGlobal Motors,Delivered
+10297,16077.27,2023-08-13,Semi-Trailers,Germany,25,AutoNation Dealers,Cancelled
+10298,48283.53,2023-08-24,Passenger Vehicles,Australia,87,EuroFleet Systems,Delivered
+10299,66544.66,2023-01-08,Passenger Vehicles,UK,57,Santos Ltd,Cancelled
+10300,43046.99,2023-06-10,Commercial Trucks,Japan,52,Velocity Vehicles,Shipped
+10301,10100.38,2023-03-16,Passenger Vehicles,USA,58,EuroFleet Systems,Resolved
+10302,11690.85,2023-10-12,Semi-Trailers,France,52,MaxMove Transport,Resolved
+10303,40911.4,2024-02-12,Commercial Trucks,Australia,8,MaxMove Transport,Cancelled
+10304,33429.06,2024-09-04,Passenger Vehicles,France,59,MaxMove Transport,Delivered
+10305,32009.87,2024-04-21,Engine Systems,Canada,30,FleetX Logistics Ltd.,Delivered
+10306,23756.82,2024-03-27,Passenger Vehicles,Germany,61,TransGlobal Motors,In Process
+10307,88373.14,2024-12-26,Engine Systems,Italy,43,"Hamilton, Vaughn and Howard",Delivered
+10308,65835.82,2024-06-22,Passenger Vehicles,Australia,8,EuroFleet Systems,Delivered
+10309,55854.82,2024-04-19,Trailers,Japan,6,FleetX Logistics Ltd.,Cancelled
+10310,20980.47,2024-02-13,Passenger Vehicles,Germany,12,MetroFleet Auto Group,Resolved
+10311,26762.27,2024-05-18,Transmission Units,UK,47,TransGlobal Motors,Delivered
+10312,44197.64,2024-09-09,Passenger Vehicles,Australia,13,TransGlobal Motors,Delivered
+10313,53603.78,2024-09-22,Passenger Vehicles,Italy,49,MetroFleet Auto Group,Delivered
+10314,65092.93,2024-10-18,Passenger Vehicles,Germany,56,Lewis Group,Delivered
+10315,4839.02,2024-08-07,Commercial Trucks,France,9,FleetX Logistics Ltd.,Delivered
+10316,16812.43,2024-08-07,Transmission Units,France,32,Velocity Vehicles,Shipped
+10317,6916.93,2024-04-02,Trailers,Japan,50,Cohen and Sons,In Process
+10318,31605.01,2024-10-28,Commercial Trucks,USA,45,TransGlobal Motors,Delivered
+10319,84538.64,2024-07-29,Passenger Vehicles,UK,89,Barajas-Middleton,Delivered
+10320,51357.52,2024-02-26,Passenger Vehicles,USA,86,FleetX Logistics Ltd.,Delivered
+10321,60107.59,2024-08-13,Electrical Systems,Japan,7,Jefferson-Dominguez,Delivered
+10322,40397.84,2024-01-04,Vehicle Interiors,Italy,36,Velocity Vehicles,Delivered
+10323,82699.39,2024-04-26,Semi-Trailers,Italy,30,Velocity Vehicles,Resolved
+10324,89557.06,2024-01-24,Passenger Vehicles,Germany,80,DriveTech Distributors,Resolved
+10325,84400.21,2024-01-06,Commercial Trucks,Australia,45,TransGlobal Motors,Delivered
+10326,71018.84,2024-03-13,Commercial Trucks,Italy,91,MetroFleet Auto Group,Delivered
+10327,17953.55,2024-10-13,Chassis Components,France,64,FleetX Logistics Ltd.,Delivered
+10328,42036.64,2024-03-17,Passenger Vehicles,France,11,MetroFleet Auto Group,
+10329,40884.11,2024-10-09,Chassis Components,UK,99,EuroFleet Systems,In Process
+10330,9125.41,2024-06-09,Passenger Vehicles,Japan,41,TransGlobal Motors,Delivered
+10331,71026.11,2024-12-10,Transmission Units,Canada,28,MetroFleet Auto Group,Cancelled
+10332,,2024-07-05,Passenger Vehicles,UK,77,MaxMove Transport,Delivered
+10333,33635.93,2024-06-24,Commercial Trucks,Canada,24,EuroFleet Systems,Delivered
+10334,18577.14,2024-08-07,Passenger Vehicles,USA,9,Velocity Vehicles,Shipped
+10335,13071.72,2024-03-07,Passenger Vehicles,UK,53,EuroFleet Systems,Delivered
+10336,46101.43,2024-12-02,Passenger Vehicles,Canada,16,MaxMove Transport,Cancelled
+10337,34835.72,2024-06-23,Passenger Vehicles,France,9,MetroFleet Auto Group,Delivered
+10338,63807.39,2024-04-23,Commercial Trucks,Canada,84,MaxMove Transport,Delivered
+10339,41100.98,2024-06-30,Electrical Systems,Canada,68,MaxMove Transport,Resolved
+10340,8374.52,2024-03-30,Passenger Vehicles,Japan,89,MetroFleet Auto Group,Cancelled
+10341,67145.91,2024-08-31,Commercial Trucks,France,24,AutoNation Dealers,Delivered
+10342,62518.13,2024-08-21,Passenger Vehicles,Japan,55,FleetX Logistics Ltd.,Resolved
+10343,83792.76,2024-11-13,Passenger Vehicles,USA,5,MaxMove Transport,Delivered
+10344,27130.81,2024-06-06,Semi-Trailers,Canada,20,DriveTech Distributors,Delivered
+10345,19819.78,2024-04-17,Passenger Vehicles,Canada,48,EuroFleet Systems,Resolved
+10346,18314.23,2024-05-30,Semi-Trailers,Canada,7,Taylor-Green,On Hold
+10347,71979.79,2024-06-03,Transmission Units,UK,57,TransGlobal Motors,Delivered
+10348,39449.25,2024-05-10,Passenger Vehicles,France,51,AutoNation Dealers,Shipped
+10349,82893.12,2024-05-10,Vehicle Interiors,USA,46,DriveTech Distributors,Delivered
+10350,70095.54,2024-12-09,Engine Systems,Australia,16,EuroFleet Systems,Delivered
+10351,43513.11,2024-03-17,Semi-Trailers,Italy,40,TransGlobal Motors,Cancelled
+10352,64390.14,2024-12-19,Passenger Vehicles,UK,94,AutoNation Dealers,Delivered
+10353,30317.95,2024-07-15,Engine Systems,UK,85,"Jones, Kirby and Morrison",On Hold
+10354,74515.01,2024-09-09,Passenger Vehicles,Japan,62,Perez PLC,
+10355,18307.64,2024-03-10,Passenger Vehicles,UK,23,DriveTech Distributors,Delivered
+10356,72168.16,2024-06-01,Passenger Vehicles,UK,75,TransGlobal Motors,Delivered
+10357,51429.14,2024-04-01,Commercial Trucks,USA,90,DriveTech Distributors,Delivered
+10358,58558.86,2024-03-20,Commercial Trucks,France,56,Perry LLC,Shipped
+10359,62165.51,2024-02-03,Passenger Vehicles,Italy,8,FleetX Logistics Ltd.,Delivered
+10360,67228.81,2024-12-30,Passenger Vehicles,France,16,FleetX Logistics Ltd.,Shipped
+10361,57595.13,2024-07-28,Engine Systems,Japan,56,"Craig, Willis and Johnson",Delivered
+10362,89751.1,2024-01-31,Transmission Units,Australia,9,AutoNation Dealers,Cancelled
+10363,78312.43,2024-12-22,Passenger Vehicles,Japan,88,TransGlobal Motors,Disputed
+10364,21613.79,2024-02-25,Semi-Trailers,Canada,96,MaxMove Transport,Cancelled
+10365,88414.6,2024-09-28,Chassis Components,UK,43,Velocity Vehicles,Resolved
+10366,13276.39,2024-04-02,Passenger Vehicles,France,24,Freeman Ltd,Delivered
+10367,33333.06,2024-11-04,Electrical Systems,France,32,DriveTech Distributors,Delivered
+10368,22425.44,2024-05-22,Commercial Trucks,Italy,28,AutoNation Dealers,Delivered
+10369,59520.07,2024-12-23,Passenger Vehicles,USA,78,AutoNation Dealers,Resolved
+10370,24589.76,2024-09-14,Chassis Components,UK,72,,Resolved
+10371,87846.87,2024-07-01,Chassis Components,France,49,EuroFleet Systems,Shipped
+10372,59222.91,2024-04-23,Commercial Trucks,Italy,44,MetroFleet Auto Group,Delivered
+10373,27289.0,2024-05-06,Commercial Trucks,Australia,53,MetroFleet Auto Group,Cancelled
+10374,34044.56,2024-09-27,Passenger Vehicles,France,75,MetroFleet Auto Group,In Process
+10375,63164.72,2024-03-08,Passenger Vehicles,USA,74,Davis-Medina,Delivered
+10376,35771.39,2024-12-03,Commercial Trucks,Australia,46,MaxMove Transport,Delivered
+10377,15190.38,2024-07-24,Semi-Trailers,Italy,88,Silva PLC,Delivered
+10378,8494.01,2024-12-26,Semi-Trailers,Canada,29,AutoNation Dealers,Shipped
+10379,48864.08,2024-09-04,Trailers,Germany,95,DriveTech Distributors,Delivered
+10380,81181.3,2024-01-15,Transmission Units,Japan,45,EuroFleet Systems,Delivered
+10381,22635.8,2024-09-23,Engine Systems,Japan,1,EuroFleet Systems,Cancelled
+10382,82271.8,2024-04-04,Trailers,Japan,77,Velocity Vehicles,Delivered
+10383,29464.75,2024-09-27,Passenger Vehicles,Germany,5,Martin-Frederick,On Hold
+10384,9472.32,2024-07-08,Semi-Trailers,USA,27,TransGlobal Motors,Delivered
+10385,23804.0,2024-08-19,Passenger Vehicles,Australia,80,Velocity Vehicles,Delivered
+10386,27823.82,2024-12-02,Passenger Vehicles,UK,27,FleetX Logistics Ltd.,Delivered
+10387,39813.47,2024-03-01,Commercial Trucks,Italy,23,EuroFleet Systems,Delivered
+10388,57688.84,2024-07-18,Electrical Systems,Canada,58,TransGlobal Motors,Shipped
+10389,57969.26,2024-07-07,Chassis Components,Australia,88,FleetX Logistics Ltd.,Delivered
+10390,47704.83,2024-06-12,Semi-Trailers,Canada,47,Velocity Vehicles,Delivered
+10391,35849.44,2024-05-29,Passenger Vehicles,Germany,38,Velocity Vehicles,Delivered
+10392,30538.78,2024-03-03,Commercial Trucks,Japan,34,Chapman-Carlson,Delivered
+10393,50042.26,2024-09-06,Semi-Trailers,Germany,33,Velocity Vehicles,Shipped
+10394,22321.77,2024-09-05,Chassis Components,Australia,85,FleetX Logistics Ltd.,Delivered
+10395,54755.14,2024-08-30,Passenger Vehicles,Italy,93,TransGlobal Motors,Shipped
+10396,71890.08,2024-07-04,Commercial Trucks,Australia,45,Taylor Ltd,Delivered
+10397,41916.91,2024-04-12,Commercial Trucks,France,43,AutoNation Dealers,Delivered
+10398,12760.36,2024-04-07,Passenger Vehicles,Italy,86,FleetX Logistics Ltd.,Cancelled
+10399,62351.66,2024-10-08,Trailers,France,89,EuroFleet Systems,Delivered
+10400,16129.04,2024-07-05,Vehicle Interiors,France,42,FleetX Logistics Ltd.,Delivered
+10401,68886.16,2024-05-02,Passenger Vehicles,Italy,87,MaxMove Transport,Delivered
+10402,6846.86,2024-05-08,Passenger Vehicles,Germany,6,AutoNation Dealers,Delivered
+10403,14579.96,2024-03-07,Passenger Vehicles,Italy,44,Evans PLC,Delivered
+10404,65551.75,2024-11-20,Commercial Trucks,Australia,31,Morris Ltd,In Process
+10405,13745.77,2024-11-09,Engine Systems,Germany,88,EuroFleet Systems,Delivered
+10406,8479.84,2024-12-14,Commercial Trucks,Australia,76,TransGlobal Motors,Delivered
+10407,39390.79,2024-08-22,Passenger Vehicles,France,70,EuroFleet Systems,Delivered
+10408,70194.79,2024-07-31,Engine Systems,Japan,16,MaxMove Transport,Delivered
+10409,57183.05,2024-06-03,Commercial Trucks,USA,16,"Dean, Scott and Jones",Delivered
+10410,31626.0,2024-06-28,Trailers,France,43,TransGlobal Motors,Cancelled
+10411,26807.49,2024-07-10,Trailers,Italy,99,MaxMove Transport,Shipped
+10412,46219.48,2024-05-01,Passenger Vehicles,Australia,92,TransGlobal Motors,Delivered
+10413,27208.85,2024-11-22,Passenger Vehicles,France,11,TransGlobal Motors,In Process
+10414,84948.91,2024-11-26,Passenger Vehicles,Italy,38,DriveTech Distributors,Delivered
+10415,37943.44,2024-04-24,Commercial Trucks,USA,90,MetroFleet Auto Group,Delivered
+10416,85186.22,2024-07-06,Passenger Vehicles,Australia,61,MetroFleet Auto Group,Cancelled
+10417,84649.19,2024-11-04,Semi-Trailers,Canada,70,Reed Inc,Delivered
+10418,35259.23,2024-07-01,Passenger Vehicles,France,14,TransGlobal Motors,Delivered
+10419,83800.14,2024-09-16,Commercial Trucks,Japan,9,TransGlobal Motors,Resolved
+10420,,2024-09-30,Commercial Trucks,Canada,27,"Hayes, Burton and Thomas",
+10421,63381.32,2024-02-06,Semi-Trailers,Japan,29,DriveTech Distributors,On Hold
+10422,84972.62,2024-11-21,Passenger Vehicles,UK,9,EuroFleet Systems,Delivered
+10423,75354.72,2024-11-09,Commercial Trucks,France,34,FleetX Logistics Ltd.,Cancelled
+10424,63839.86,2024-01-14,Chassis Components,UK,21,FleetX Logistics Ltd.,Delivered
+10425,50113.58,2024-05-21,Semi-Trailers,Canada,93,DriveTech Distributors,In Process
+10426,34430.52,2024-08-26,Transmission Units,Japan,46,TransGlobal Motors,Delivered
+10427,68728.53,2024-02-05,Passenger Vehicles,Canada,99,EuroFleet Systems,Resolved
+10428,21156.98,2024-02-01,Commercial Trucks,UK,10,FleetX Logistics Ltd.,Delivered
+10429,83180.14,2024-03-01,Commercial Trucks,Italy,83,EuroFleet Systems,Delivered
+10430,6978.51,2024-09-19,Passenger Vehicles,UK,99,Marsh-Campbell,Cancelled
+10431,19344.86,2024-12-30,Passenger Vehicles,USA,73,Velocity Vehicles,Shipped
+10432,88007.81,2024-12-17,Engine Systems,Italy,9,AutoNation Dealers,In Process
+10433,30240.1,2024-05-12,Commercial Trucks,UK,9,DriveTech Distributors,Delivered
+10434,78829.8,2024-03-08,Passenger Vehicles,UK,11,Velocity Vehicles,Delivered
+10435,23654.24,2024-12-02,Passenger Vehicles,Australia,19,MaxMove Transport,Delivered
+10436,65554.75,2024-09-05,Passenger Vehicles,Canada,67,,Delivered
+10437,52115.85,2024-05-06,Commercial Trucks,France,55,Castaneda-Martinez,Delivered
+10438,18399.52,2024-12-07,Trailers,Japan,85,Velocity Vehicles,Resolved
+10439,47954.45,2024-07-13,Passenger Vehicles,Australia,72,MaxMove Transport,Delivered
+10440,68789.31,2025-04-19,Passenger Vehicles,Canada,45,Velocity Vehicles,Shipped
+10441,72268.74,2025-04-28,Commercial Trucks,USA,79,Velocity Vehicles,Shipped
+10442,100706.52,2025-11-25,Passenger Vehicles,Japan,2,TransGlobal Motors,Delivered
+10443,92493.6,2025-06-25,Commercial Trucks,UK,46,"Smith, Stevens and Franklin",In Process
+10444,57097.28,2025-01-08,Commercial Trucks,USA,4,EuroFleet Systems,Delivered
+10445,25242.05,2025-08-31,Passenger Vehicles,Australia,46,FleetX Logistics Ltd.,On Hold
+10446,11746.93,2025-04-12,Commercial Trucks,Italy,44,FleetX Logistics Ltd.,In Process
+10447,78718.29,2025-10-12,Passenger Vehicles,UK,10,EuroFleet Systems,Shipped
+10448,65114.14,2025-04-26,Passenger Vehicles,Canada,16,DriveTech Distributors,Delivered
+10449,17155.81,2025-02-13,Engine Systems,Canada,98,Blackburn and Sons,Delivered
+10450,,2025-12-02,Passenger Vehicles,Canada,99,MaxMove Transport,Cancelled
+10451,100131.08,2025-03-23,Semi-Trailers,France,9,EuroFleet Systems,Shipped
+10452,14106.35,2025-04-06,Passenger Vehicles,USA,20,EuroFleet Systems,Delivered
+10453,103826.6,2025-04-24,Passenger Vehicles,Canada,42,MaxMove Transport,Cancelled
+10454,95916.05,2025-07-07,Commercial Trucks,Germany,4,AutoNation Dealers,Cancelled
+10455,,2025-08-23,Commercial Trucks,France,73,Moore-Vazquez,
+10456,10325.79,2025-06-04,Vehicle Interiors,Japan,47,MetroFleet Auto Group,Shipped
+10457,31981.28,2025-02-24,Engine Systems,UK,89,"Foster, Bradley and Barnes",Delivered
+10458,27324.07,2025-01-26,Passenger Vehicles,Italy,91,Velocity Vehicles,Delivered
+10459,48900.99,2025-07-31,Passenger Vehicles,Germany,14,FleetX Logistics Ltd.,In Process
+10460,112125.59,2025-06-22,Commercial Trucks,Australia,83,MaxMove Transport,In Process
+10461,9689.81,2025-03-26,Engine Systems,UK,54,FleetX Logistics Ltd.,Shipped
+10462,20775.22,2025-01-19,Passenger Vehicles,Canada,59,EuroFleet Systems,Shipped
+10463,21294.9,2025-07-06,Passenger Vehicles,France,32,DriveTech Distributors,Delivered
+10464,107917.12,2025-02-20,Passenger Vehicles,UK,72,DriveTech Distributors,Delivered
+10465,57740.42,2025-06-11,Semi-Trailers,Japan,45,AutoNation Dealers,Shipped
+10466,18436.71,2025-12-30,Passenger Vehicles,UK,71,AutoNation Dealers,Shipped
+10467,40952.28,2025-10-27,Chassis Components,Canada,90,MaxMove Transport,Delivered
+10468,65020.03,2025-08-05,Passenger Vehicles,Italy,30,AutoNation Dealers,Delivered
+10469,9050.43,2025-02-05,Trailers,UK,8,Anderson-Johnson,In Process
+10470,34855.62,2025-10-11,Transmission Units,Italy,49,MaxMove Transport,Delivered
+10471,50687.4,2025-06-24,Electrical Systems,Germany,49,EuroFleet Systems,Delivered
+10472,52719.88,2025-04-20,Passenger Vehicles,France,16,DriveTech Distributors,
+10473,7949.62,2025-04-20,Trailers,Canada,1,EuroFleet Systems,Delivered
+10474,84845.72,2025-02-19,Commercial Trucks,Germany,64,MaxMove Transport,Delivered
+10475,55363.89,2025-01-12,Commercial Trucks,Germany,3,Velocity Vehicles,Delivered
+10476,117454.44,2025-09-01,Commercial Trucks,Canada,51,EuroFleet Systems,Delivered
+10477,64748.09,2025-12-15,Semi-Trailers,USA,14,AutoNation Dealers,Shipped
+10478,88133.79,2025-10-25,Passenger Vehicles,Canada,42,Duke and Sons,Shipped
+10479,10267.47,2025-04-24,Chassis Components,Australia,82,Velocity Vehicles,Resolved
+10480,106205.17,2025-08-05,Transmission Units,UK,70,DriveTech Distributors,In Process
+10481,47089.84,2025-07-04,Semi-Trailers,Australia,40,EuroFleet Systems,Delivered
+10482,68499.76,2025-11-15,Passenger Vehicles,Italy,12,MetroFleet Auto Group,Delivered
+10483,69991.26,2025-11-24,Chassis Components,USA,36,FleetX Logistics Ltd.,Delivered
+10484,44926.32,2025-11-15,Commercial Trucks,USA,70,EuroFleet Systems,Shipped
+10485,53008.49,2025-02-19,Trailers,Japan,67,Velocity Vehicles,Shipped
+10486,98592.93,2025-02-04,Passenger Vehicles,France,1,,
+10487,77052.92,2025-05-26,Chassis Components,Germany,25,DriveTech Distributors,Delivered
+10488,78336.57,2025-08-01,Passenger Vehicles,Germany,81,Velocity Vehicles,Delivered
+10489,97487.24,2025-12-19,Passenger Vehicles,Japan,81,Brown Ltd,In Process
+10490,80672.21,2025-05-08,Passenger Vehicles,USA,76,Dean Ltd,Delivered
+10491,103187.7,2025-10-19,Passenger Vehicles,France,69,Mason PLC,Delivered
+10492,47372.77,2025-12-29,Passenger Vehicles,Japan,93,MetroFleet Auto Group,Shipped
+10493,76127.92,2025-02-08,Passenger Vehicles,Australia,53,AutoNation Dealers,Delivered
+10494,42604.49,2025-03-25,Passenger Vehicles,USA,75,Velocity Vehicles,Shipped
+10495,27950.85,2025-02-24,Commercial Trucks,USA,77,FleetX Logistics Ltd.,Shipped
+10496,50727.64,2025-11-02,Passenger Vehicles,Japan,65,EuroFleet Systems,In Process
+10497,40442.59,2025-01-13,Passenger Vehicles,UK,48,Velocity Vehicles,Shipped
+10498,52765.07,2025-03-02,Transmission Units,Australia,92,DriveTech Distributors,Delivered
+10499,,2025-08-02,Commercial Trucks,Italy,58,FleetX Logistics Ltd.,Shipped
+10500,57195.65,2025-06-12,Passenger Vehicles,UK,26,EuroFleet Systems,In Process
+10501,59450.44,2025-03-28,Chassis Components,Australia,3,"Dougherty, Little and Welch",In Process
+10502,63153.9,2025-06-28,Vehicle Interiors,Canada,4,MaxMove Transport,Delivered
+10503,103254.2,2025-08-15,Commercial Trucks,Germany,84,FleetX Logistics Ltd.,Shipped
+10504,108306.94,2025-06-13,Commercial Trucks,Canada,31,AutoNation Dealers,Delivered
+10505,16174.66,2025-05-26,Passenger Vehicles,Italy,15,FleetX Logistics Ltd.,Delivered
+10506,22904.51,2025-06-25,Commercial Trucks,France,90,DriveTech Distributors,Cancelled
+10507,38986.13,2025-03-03,Transmission Units,France,9,"Wood, Ross and Cunningham",Delivered
+10508,30625.13,2025-11-14,Passenger Vehicles,France,86,FleetX Logistics Ltd.,Shipped
+10509,53029.49,2025-07-04,Passenger Vehicles,France,46,FleetX Logistics Ltd.,In Process
+10510,79871.88,2025-01-07,Passenger Vehicles,Italy,59,MetroFleet Auto Group,In Process
+10511,38221.49,2025-02-26,Semi-Trailers,Germany,7,TransGlobal Motors,In Process
+10512,82330.0,2025-10-01,Passenger Vehicles,Germany,27,MaxMove Transport,In Process
+10513,112454.15,2025-10-05,Passenger Vehicles,Germany,10,MaxMove Transport,Delivered
+10514,34173.87,2025-02-17,Passenger Vehicles,Australia,84,Sims-Ortiz,In Process
+10515,87484.19,2025-03-18,Passenger Vehicles,UK,65,DriveTech Distributors,On Hold
+10516,29585.47,2025-08-31,Passenger Vehicles,Italy,38,EuroFleet Systems,In Process
+10517,90785.21,2025-06-01,Semi-Trailers,Australia,24,,Delivered
+10518,50996.59,2025-04-02,Semi-Trailers,Canada,15,AutoNation Dealers,Delivered
+10519,112618.98,2025-08-25,Trailers,Germany,60,"Mack, Thomas and Mendoza",In Process
+10520,95117.42,2025-02-22,Passenger Vehicles,France,79,EuroFleet Systems,Shipped
+10521,45883.89,2025-02-19,Engine Systems,USA,47,Garcia Group,In Process
+10522,45198.26,2025-03-08,Commercial Trucks,UK,51,FleetX Logistics Ltd.,Shipped
+10523,34866.76,2025-03-04,Passenger Vehicles,Australia,39,MetroFleet Auto Group,In Process
+10524,69384.53,2025-08-17,Passenger Vehicles,Canada,76,Velocity Vehicles,Shipped
+10525,44478.33,2025-02-25,Passenger Vehicles,Australia,71,Farley Group,Delivered
+10526,85098.38,2025-06-07,Commercial Trucks,UK,73,"Sparks, Kim and Jackson",Delivered
+10527,50200.43,2025-10-26,Trailers,Japan,28,Velocity Vehicles,Shipped
+10528,38646.66,2025-12-20,Passenger Vehicles,France,53,MaxMove Transport,In Process
+10529,77844.01,2025-12-01,Passenger Vehicles,Germany,52,FleetX Logistics Ltd.,Shipped
+10530,52029.79,2025-07-23,Transmission Units,Japan,48,Velocity Vehicles,Delivered
+10531,54863.78,2025-09-06,Engine Systems,Germany,70,FleetX Logistics Ltd.,Shipped
+10532,105399.65,2025-12-06,Electrical Systems,UK,21,TransGlobal Motors,Delivered
+10533,9739.94,2025-07-09,Chassis Components,Canada,57,Velocity Vehicles,Delivered
+10534,28144.08,2025-01-16,Passenger Vehicles,USA,79,EuroFleet Systems,Delivered
+10535,24005.0,2025-03-30,Transmission Units,UK,8,MetroFleet Auto Group,Delivered
+10536,33673.38,2025-08-10,Passenger Vehicles,USA,88,AutoNation Dealers,Cancelled
+10537,101653.97,2025-12-05,Passenger Vehicles,Italy,41,MaxMove Transport,Disputed
+10538,49591.65,2025-08-04,Passenger Vehicles,France,76,TransGlobal Motors,Delivered
+10539,19435.85,2025-06-01,Passenger Vehicles,France,25,FleetX Logistics Ltd.,Shipped
+10540,15864.06,2025-12-12,Passenger Vehicles,Australia,75,DriveTech Distributors,Delivered
+10541,54068.47,2025-05-02,Passenger Vehicles,Australia,80,FleetX Logistics Ltd.,In Process
+10542,35609.65,2025-08-22,Passenger Vehicles,Australia,92,FleetX Logistics Ltd.,Resolved
+10543,14896.17,2025-12-17,Commercial Trucks,Canada,63,,Shipped
+10544,84218.99,2025-09-24,Passenger Vehicles,Japan,34,MetroFleet Auto Group,In Process
+10545,56254.68,2025-01-20,Passenger Vehicles,UK,90,AutoNation Dealers,Shipped
+10546,107865.56,2025-10-11,Engine Systems,Italy,53,AutoNation Dealers,In Process
+10547,15303.33,2025-06-30,Chassis Components,UK,3,TransGlobal Motors,Delivered
+10548,119965.91,2025-04-25,Semi-Trailers,USA,30,EuroFleet Systems,Shipped
+10549,63502.73,2025-08-21,Trailers,Australia,30,MetroFleet Auto Group,Delivered
+10069,57610.45,2021-07-01,Passenger Vehicles,Japan,5,DriveTech Distributors,Delivered
+10294,,2023-01-14,Passenger Vehicles,UK,73,FleetX Logistics Ltd.,Delivered
+10545,56254.68,2025-01-20,Passenger Vehicles,UK,90,AutoNation Dealers,Shipped
+10479,10267.47,2025-04-24,Chassis Components,Australia,82,Velocity Vehicles,Resolved
+10377,15190.38,2024-07-24,Semi-Trailers,Italy,88,Silva PLC,Delivered
