@@ -133,5 +133,6 @@ df_top.insert(0, "Rank", range(1, len(df_top) + 1))
 df_top.rename(columns={"SALES": "Sales (M)"}, inplace=True)
 
 # Display table without Streamlit index
-st.table(df_top)
+st.table(df_top.reset_index(drop=True))
+
 
