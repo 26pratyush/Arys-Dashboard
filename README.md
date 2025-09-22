@@ -21,6 +21,7 @@ The project uses:
 
 The dashboard is hosted on **Render**:  
 👉 [https://arys-frontend.onrender.com/](https://arys-frontend.onrender.com/)  
+📽 **Demo Video**: [View here]( https://drive.google.com/file/d/1MQiOOBV-QOkAQWC7VBkzxJJJNQm3KuV4/view?usp=sharing)  
 
 ⚠️ *Note*: Since this is hosted on Render’s **free tier**, the server goes to sleep after ~15 minutes of inactivity.  
 It may take 1–2 minutes to restart when you open the link. If it doesn’t load immediately, try refreshing or opening in a new tab.  
